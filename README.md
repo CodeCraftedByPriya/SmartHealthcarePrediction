@@ -43,6 +43,7 @@
 ---
 
 <h3 align="center">📂 Project Structure</h3>
+
 ``` bash
 📁 Diagnalytics/
 ├── 📁 static/
@@ -58,6 +59,7 @@
 ---
 
 <h3 align="center">📈 Data Analytics & Visual Insights</h3>
+
 ### 🎯 1. Distributions
 - **Age**, **Treatment Duration**, **Recovery Time**, **SAT Score**
   > Helps identify common recovery age groups or skewed satisfaction
