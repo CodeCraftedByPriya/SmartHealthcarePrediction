@@ -1,0 +1,1015 @@
+Patient_ID,Age,Gender,Blood_Pressure,Heart_Rate,Temperature,Diagnosis,Medication,Treatment_Duration,Insurance_Type,Doctor_Name,Hospital_Name,Lab_Test_Results,X-ray_Results,Surgery_Type,Recovery_Time,Allergies,FamilyHistory,SAT,Feedback
+P001,34,Male,130/85,78,98.7,Hypertension,Amlodipine,6 months,Private,Dr. Smith,City Hospital,Normal,No Issues,None,3 weeks,None,No,-4,Too poor
+P002,56,Female,145/92,88,99.2,Diabetes Type 1,Metformin,1 year,Public,Dr. Johnson,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,4 weeks,Pollen,Yes,-3,Too poor
+P003,45,Male,125/80,72,98.5,Asthma,Salbutamol,3 months,Private,Dr. Lee,Riverside Hospital,Normal,Clear,None,2 weeks,Dust,Yes,-5,Too bad
+P004,28,Female,120/75,80,98.6,Cold,Paracetamol,2 weeks,Private,Dr. Brown,Oakwood Health,Normal,No Issues,None,7 days,None,No,-5,Too bad
+P005,60,Male,160/100,90,100.1,Stroke,Clopidogrel,6 months,Private,Dr. Harris,Summit Hospital,High Cholesterol,Issues in X-ray,Craniotomy,1 month,Penicillin,Yes,2,Below average
+P006,70,Female,145/85,75,98.4,Arthritis,Ibuprofen,2 months,Public,Dr. Clark,North Valley Hospital,Normal,No Issues,Hip Replacement,3 weeks,None,Yes,4,Very Good
+P007,52,Male,135/88,80,98.8,Hypertension,Lisinopril,6 months,Public,Dr. Davis,City Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,Okay and average service
+P008,31,Female,120/70,78,98.9,NA,Ibuprofen,2 weeks,Private,Dr. Taylor,Riverdale Medical,Normal,No Issues,None,10 days,None,No,5,Excellent experiace
+P009,46,Male,140/90,82,99.4,Diabetes Type 1,Insulin,1 year,Public,Dr. Harris,Greenfield Medical Center,High Blood Sugar,No Issues,None,2 months,Peanuts,Yes,4,Very Good
+P010,59,Female,155/95,85,99.5,Heart Disease,Aspirin,8 months,Private,Dr. Lee,Summit Hospital,Elevated Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,Yes,3,Normal
+P011,40,Male,125/80,72,98.6,Cold,Paracetamol,1 week,Public,Dr. Smith,Oakwood Health,Normal,Clear,None,1 week,None,No,5,Too Good
+P012,22,Female,118/74,70,98.3,Anxiety,Sertraline,3 months,Private,Dr. Lee,Riverside Hospital,Normal,No Issues,None,2 weeks,None,No,4,Good
+P013,66,Male,150/90,95,99.2,Stroke,Aspirin,6 months,Private,Dr. Clark,North Valley Hospital,High Cholesterol,No Issues,Stroke Surgery,4 months,None,Yes,2,Can do better
+P014,25,Female,110/70,76,98.6,Flu,Oseltamivir,1 week,Private,Dr. Turner,Valley View Hospital,Normal,No Issues,None,5 days,Dust,No,5,Amazing
+P015,50,Male,140/85,80,98.8,Arthritis,Naproxen,4 months,Public,Dr. Johnson,City Hospital,Normal,Clear,None,1 month,None,Yes,4,Excellant
+P016,60,Female,145/90,78,99,High Cholesterol,Atorvastatin,6 months,Private,Dr. Green,Riverside Medical Center,Elevated Cholesterol,No Issues,None,2 months,None,Yes,3,Average treatment and facilities
+P017,37,Male,130/80,72,98.5,Migraine,Sumatriptan,3 months,Private,Dr. Baker,Oakwood Health,Normal,No Issues,None,2 weeks,None,No,5,Awesome
+P018,48,Female,138/88,75,98.9,High Blood Pressure,Losartan,8 months,Public,Dr. Miller,Riverdale Medical,Normal,No Issues,None,1 month,Pollen,Yes,4,Good
+P019,55,Male,150/95,85,99.5,Stroke,Warfarin,5 months,Private,Dr. Davis,Summit Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,2,Average
+P020,42,Female,135/85,80,98.7,Anxiety,Diazepam,2 months,Public,Dr. Harris,Greenfield Medical Center,Normal,No Issues,None,4 weeks,None,Yes,4,Too Good
+P021,63,Male,140/85,80,99,Hypertension,Amlodipine,6 months,Private,Dr. Clark,Valley View Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,Normal
+P022,54,Female,155/90,82,99.2,Heart Disease,Aspirin,12 months,Public,Dr. Lee,Riverdale Medical,Elevated Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,Yes,2,Below Average
+P023,28,Male,120/75,70,98.5,Asthma,Salbutamol,6 months,Private,Dr. Davis,Oakwood Health,Normal,Clear,None,2 weeks,Pollen,No,4,Amazing
+P024,45,Female,130/80,85,98.7,Stroke,Clopidogrel,4 months,Private,Dr. Johnson,City Hospital,High Cholesterol,Issues in X-ray,Craniotomy,3 months,Penicillin,Yes,2,Bad
+P025,60,Male,155/95,88,100.1,Stroke,Warfarin,8 months,Public,Dr. Harris,Riverside Hospital,High Cholesterol,No Issues,Stroke Surgery,4 months,None,Yes,1,Worse
+P026,36,Female,125/80,72,98.6,Anxiety,Sertraline,2 months,Private,Dr. Baker,Greenfield Medical Center,Normal,No Issues,None,2 weeks,None,No,4,Good
+P027,50,Male,140/90,78,99.4,Hypertension,Losartan,3 months,Private,Dr. Green,Summit Hospital,Normal,No Issues,None,4 weeks,None,Yes,4,Good
+P028,34,Female,128/76,75,98.8,Cold,Paracetamol,1 week,Public,Dr. Smith,Valley View Hospital,Normal,No Issues,None,7 days,None,No,5,Good staff and doctors
+P029,39,Male,132/82,79,98.9,Migraine,Ibuprofen,1 month,Private,Dr. Turner,Oakwood Health,Normal,Clear,None,2 weeks,None,Yes,5,Nice experiance
+P030,63,Female,145/95,85,99.2,Heart Disease,Metoprolol,6 months,Public,Dr. Clark,Greenfield Medical Center,Elevated Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,Yes,3,Average treatment
+P031,28,Male,120/70,72,98.7,Asthma,Albuterol,4 months,Private,Dr. Lee,Riverside Hospital,Normal,No Issues,None,2 weeks,Pollen,No,4,Good experiance
+P032,50,Female,138/88,82,99.1,Diabetes Type 1,Insulin,1 year,Public,Dr. Harris,Summit Hospital,Elevated Blood Sugar,Issues in X-ray,None,4 weeks,Peanuts,Yes,3,Okay and normal
+P033,47,Male,135/80,78,98.8,High Cholesterol,Atorvastatin,5 months,Private,Dr. Taylor,City Hospital,Elevated Cholesterol,No Issues,None,3 months,None,Yes,4,Super
+P034,33,Female,120/72,70,98.5,Cold,Oseltamivir,1 week,Private,Dr. Brown,Riverdale Medical,Normal,No Issues,None,7 days,None,No,5,Excellant
+P035,42,Male,130/75,74,NA,Anxiety,Diazepam,3 months,Private,Dr. Miller,Oakwood Health,Normal,No Issues,None,2 weeks,None,No,4,Great
+P036,58,Female,150/92,80,99.5,Hypertension,Losartan,6 months,Public,Dr. Green,North Valley Hospital,Elevated Cholesterol,No Issues,None,1 month,Pollen,Yes,3,Very normal
+P037,41,Male,125/80,75,98.7,Migraine,Sumatriptan,2 months,Private,Dr. Harris,Greenfield Medical Center,Normal,No Issues,None,2 weeks,None,No,5,Too good
+P038,60,Female,140/85,78,99.3,Stroke,Clopidogrel,8 months,Private,Dr. Johnson,Summit Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,None,Yes,3,Good
+P039,55,Male,145/90,82,99.6,Heart Disease,Aspirin,6 months,Public,Dr. Clark,Riverside Medical Center,Elevated Cholesterol,No Issues,Coronary Artery Bypass,2 months,Penicillin,Yes,2,Average
+P040,29,Female,120/70,73,98.9,Cold,Paracetamol,3 weeks,Private,Dr. Baker,City Hospital,Normal,No Issues,None,5 days,None,No,5,Very good doctors
+P041,63,Male,140/90,79,99,Hypertension,Amlodipine,6 months,Public,Dr. Turner,Valley View Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,Average
+P042,53,Female,150/80,85,99.3,Arthritis,Ibuprofen,5 months,Private,Dr. Taylor,Riverside Hospital,Normal,Clear,None,1 month,Pollen,Yes,4,Too Good
+P043,41,Male,125/80,72,98.5,Migraine,Ibuprofen,3 months,Private,Dr. Harris,Oakwood Health,Normal,No Issues,None,2 weeks,None,Yes,5,Excellant
+P044,37,Female,130/75,76,98.6,Asthma,Salbutamol,6 months,Public,Dr. Johnson,Greenfield Medical Center,Normal,Clear,None,2 weeks,Dust,Yes,4,Amazing
+P045,48,Male,135/80,82,99,Diabetes Type 1,Insulin,1 year,Private,Dr. Green,North Valley Hospital,Elevated Blood Sugar,No Issues,None,3 weeks,Peanuts,Yes,3,Average
+P046,57,Female,145/90,84,99.4,Heart Disease,Aspirin,6 months,Public,Dr. Miller,City Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,None,Yes,2,Below Normal
+P047,50,Male,130/80,75,98.9,Hypertension,Losartan,6 months,Private,Dr. Taylor,Greenfield Medical Center,Normal,No Issues,None,1 month,None,Yes,3,Bad
+P048,25,Female,120/75,73,98.8,Cold,Paracetamol,2 weeks,Private,Dr. Baker,Riverside Hospital,Normal,No Issues,None,5 days,Pollen,No,5,Good
+P049,62,Male,150/95,80,99,Stroke,Warfarin,8 months,Public,Dr. Davis,Summit Hospital,High Cholesterol,No Issues,Stroke Surgery,4 months,None,Yes,1,Poor service
+P050,51,Female,140/85,79,99.1,Heart Disease,Aspirin,4 months,Private,Dr. Brown,Riverside Medical Center,Elevated Cholesterol,No Issues,Coronary Artery Bypass,3 months,Penicillin,Yes,3,To be improved
+P051,51,Male,135/80,75,99,Diabetes Type 1,Metformin,1 year,Private,Dr. Baker,Summit Hospital, Elevated Blood Sugar, No Issues,None, 4 weeks, Peanuts, Yes,4,Excellant
+P052,59,Female,145/95,84,99.4,Hypertension,Amlodipine,6 months,Public,Dr. Lee, Greenfield Medical Center, Normal, No Issues,None, 1 month,None, Yes,3,Good
+P053,38,Male,130/80,80,98.9,Migraine,Sumatriptan,3 months,Private,Dr. Green,Riverdale Medical,Normal, No Issues, None, 2 weeks,None, No,5,Super
+P054,43,Female,125/75,74,98.6,Cold,Paracetamol,1 week,Public,Dr. Harris,Oakwood Health, Normal, Clear, None, 7 days,None,No,5,Great
+P055,67,Male,155/90,88,100.2,Stroke,Warfarin,10 months,Private,Dr. Turner, Valley View Hospital, High Cholesterol,No Issues,Stroke Surgery,5 months,Penicillin,Yes,2,Very bad
+P056,61,Female,145/90,80,99.3,High Blood Pressure,Losartan,4 months,Private,Dr. Taylor, Greenfield Medical Center, Elevated Blood Pressure,No Issues,None,1 month, Pollen, Yes,3,Average staff
+P057,39,Male,120/70,72,98.4,Asthma,Salbutamol,3 months,Public,Dr. Lee,Riverdale Medical,Normal, Clear, None, 2 weeks, Pollen,No,5,Excellant
+P058,48,Female,135/80,77,99.1,Heart Disease,Aspirin,8 months,Private,Dr. Green, Oakwood Health, Elevated Cholesterol, No Issues,Coronary Artery Bypass,2 months,Dust,Yes,3,Too good
+P059,33,Male,120/75,72,98.8,Anxiety,Diazepam,4 months,Public,Dr. Clark,Summit Hospital,Normal,No Issues, None, 3 weeks, None, No,5,Too good
+P060,44,Female,125/80,78,98.7,High Blood Pressure,Lisinopril,5 months,Private,Dr. Harris,Riverdale Medical,Elevated Blood Pressure,No Issues,None,1 month,None,Yes,4,Too good
+P061,54,Male,140/85,80,99.2,Stroke,Clopidogrel,6 months,Public,Dr. Johnson,Greenfield Medical Center, High Cholesterol,No Issues,Stroke Surgery,3 months,None,Yes,3,Great but improve facilities
+P062,41,Female,125/78,75,98.9,Migraine,Sumatriptan,2 months,Private,Dr. Taylor, Valley View Hospital, Normal,Clear,None,2 weeks, None, No,5,Amazing facilities
+P063,49,Male,135/82,80,98.5,High Cholesterol,Atorvastatin,4 months,Public, Dr. Clark, Oakwood Health, Elevated Cholesterol,No Issues,None,1 month,None,Yes,4,Average
+P064,29,Female,118/74,70,98.6,Asthma,Albuterol,6 months,Private,Dr. Green,Summit Hospital, Normal, Clear, None, 2 weeks, Pollen, No,5,Amazing doctors
+P065,46,Male,145/85,80,99.3,Hypertension,Amlodipine,4 months,Public,Dr. Lee,Riverdale Medical, Normal, No Issues, None, 4 weeks, None, Yes,3,Avaerage doctors
+P066,38,Female,130/80,76,98.9,Stroke,Clopidogrel,6 months,Private, Dr. Taylor,Greenfield Medical Center, High Cholesterol,No Issues,Stroke Surgery,2 months,Penicillin,Yes,2,Below average
+P067,51,Male,120/72,72,98.8,Cold,Paracetamol,2 weeks,Public,Dr. Harris,Summit Hospital, Normal, Clear, None, 7 days,None,No,5,Excellant doctors
+P068,60,Female,135/85,79,99,Diabetes Type 1,Metformin,6 months,Private, Dr. Davis,Riverdale Medical, Elevated Blood Sugar, No Issues, None, 4 weeks, Peanuts, Yes,3,Below average
+P069,58,Male,140/90,84,NA,Hypertension,Losartan,12 months,Public, Dr. Clark,Oakwood Health, Elevated Cholesterol, No Issues, None, 2 months, None, Yes,3,Normal
+P070,42,Female,128/78,77,98.9,Heart Disease,Aspirin, 5 months, Private, Dr. Harris,Summit Hospital, Elevated Cholesterol, No Issues, Coronary Artery Bypass, 3 months, Pollen, Yes,3,Good
+P071,44,Male,135/82,80,99.1,High Blood Pressure,Lisinopril,4 months, Public,Dr. Brown, Valley View Hospital, Elevated Blood Pressure, No Issues, None, 1 month, None, Yes,4,Very good
+P072,53,Female,145/95,88,100,Stroke,Warfarin,6 months, Private, Dr. Green,Riverside Hospital, High Cholesterol, No Issues, Stroke Surgery, 5 months, Penicillin, Yes,2,Poor
+P073,32,Male,120/75,74,NA,Asthma,Salbutamol,4 months, Public,Dr. Lee, Oakwood Health, Normal, No Issues, None, 2 weeks, Pollen, No,5,Amazing
+P074,36,Female,125/78,76,98.7,High Cholesterol,Atorvastatin,5 months, Private,Dr. Davis, Summit Hospital, Elevated Cholesterol, No Issues, None, 2 months, None, Yes,3,Amazing
+P075,45,Male,140/90,78,99.4,Heart Disease,Aspirin, 12 months, Public, Dr. Harris, Greenfield Medical Center, Elevated Cholesterol, Issues in X-ray, Coronary Artery Bypass, 3 months, Dust, Yes,3,Too good
+P076,50,Female,135/85,80,99,Diabetes Type 1,Insulin,6 months, Private, Dr. Green, Riverdale Medical, Elevated Blood Sugar, No Issues, None, 2 months, Peanuts, Yes,4,Average
+P077,56,Male,145/90,82,99.3,Stroke,Clopidogrel,6 months, Public, Dr. Clark, Oakwood Health, High Cholesterol, No Issues, Stroke Surgery, 3 months, None, Yes,2,Poor
+P078,38,Female,125/80,77,98.6,Anxiety,Sertraline,4 months, Private, Dr. Lee, Summit Hospital, NA, No Issues, None, 2 weeks, None, No,5,Great
+P079,60,Male,140/90,79,99.2,High Blood Pressure,Lisinopril, 8 months, Public, Dr. Harris, Greenfield Medical Center, Elevated Cholesterol, No Issues, None, 3 months, None, Yes,3,Good and to be improved
+P080,53,Female,130/85,80,NA,Cold,Oseltamivir,2 weeks, Private, Dr. Clark, Riverdale Medical, NA, No Issues, None, 7 days, None, No,5,Amazing
+P081,34,Male,125/80,72,98.6,Hypertension,Amlodipine,6 months,Private,Dr. Smith,City Hospital,NA,No Issues,None,3 weeks,None,No,4,Very Good
+P082,50,Female,135/88,75,99.1,Diabetes Type 1,Metformin,1 year,Public,Dr. Johnson,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,4 weeks,Peanuts,Yes,3,Good
+P083,28,Male,130/85,78,98.8,Asthma,Salbutamol,3 months,Private,Dr. Lee,Riverside Hospital,Normal,Clear,None,2 weeks,Pollen,Yes,5,Amazing
+P084,45,Female,140/90,85,99.4,Stroke,Clopidogrel,6 months,Private,Dr. Brown,Oakwood Health,High Cholesterol,No Issues,Craniotomy,1 month,None,Yes,2,Bad
+P085,60,Male,150/95,80,99,Heart Disease,Aspirin,8 months,Public,Dr. Harris,Summit Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,Average
+P086,70,Female,140/88,75,98.9,Arthritis,Ibuprofen,2 months,Public,Dr. Clark,North Valley Hospital,Normal,No Issues,Hip Replacement,3 weeks,None,Yes,4,Amazing
+P087,36,Male,125/75,78,98.7,Migraine,Sumatriptan,3 months,Private,Dr. Turner,Valley View Hospital,Normal,No Issues,None,2 weeks,None,No,5,Super
+P088,31,Female,130/85,80,98.8,High Blood Pressure,Losartan,4 months,Public,Dr. Davis,Riverdale Medical,Normal,No Issues,None,1 month,Pollen,Yes,3,Too good
+P089,54,Male,140/88,82,99.5,Stroke,Warfarin,6 months,Private,Dr. Green,City Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,-2,Poor
+P090,43,Female,120/75,72,98.4,Cold,Paracetamol,1 week,Private,Dr. Taylor,Oakwood Health,Normal,Clear,None,7 days,None,No,-5,Extremely bad
+P091,37,Male,135/80,74,98.9,Anxiety,Sertraline,3 months,Private,Dr. Baker,Riverside Hospital,Normal,No Issues,None,2 weeks,None,No,-4,Too bad
+P092,40,Female,128/76,75,99,Diabetes Type 1,Insulin,1 year,Public,Dr. Miller,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,2 months,None,Yes,-4,Too bad
+P093,58,Male,145/90,85,99.6,Heart Disease,Aspirin,9 months,Private,Dr. Clark,Summit Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,-3,Worst
+P094,42,Female,135/80,78,98.8,Migraine,Ibuprofen,2 weeks,Private,Dr. Lee,Riverdale Medical,Normal,No Issues,None,10 days,None,No,5,Super experiance
+P095,47,Male,140/85,82,99.2,Hypertension,Lisinopril,6 months,Public,Dr. Johnson,North Valley Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,Average
+P096,33,Female,125/75,74,98.6,Asthma,Albuterol,4 months,Private,Dr. Davis,City Hospital,Normal,No Issues,None,2 weeks,Pollen,No,5,Great
+P097,60,Male,150/92,88,99.5,Stroke,Warfarin,8 months,Public,Dr. Brown,Oakwood Health,High Cholesterol,No Issues,Stroke Surgery,4 months,Penicillin,Yes,2,Poor
+P098,48,Female,135/85,80,99.3,High Cholesterol,Atorvastatin,6 months,Private,Dr. Smith,Greenfield Medical Center,Elevated Cholesterol,No Issues,None,2 months,None,Yes,4,Amazing
+P099,55,Male,145/90,84,99.4,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Summit Hospital,Elevated Blood Sugar,Issues in X-ray,None,4 weeks,Peanuts,Yes,3,Too good
+P100,44,Female,140/85,80,99,Heart Disease,Aspirin,12 months,Public,Dr. Harris,Riverdale Medical,Elevated Cholesterol,No Issues,Coronary Artery Bypass,3 months,None,Yes,3,Excellant
+P101,39,Male,130/75,76,98.7,Hypertension,Amlodipine,4 months,Private,Dr. Lee,City Hospital,Normal,No Issues,None,4 weeks,None,No,4,Good
+P102,32,Female,125/70,74,98.6,Anxiety,Diazepam,2 months,Private,Dr. Turner,North Valley Hospital,Normal,No Issues,None,2 weeks,None,No,5,Great
+P103,56,Male,145/85,80,99.2,Migraine,Sumatriptan,3 months,Public,Dr. Brown,Summit Hospital,Normal,No Issues,None,2 weeks,None,Yes,3,Amazing
+P104,29,Female,135/80,78,98.9,Cold,Paracetamol,1 week,Public,Dr. Johnson,Valley View Hospital,Normal,Clear,None,7 days,None,No,5,Super
+P105,41,Male,140/90,80,99.3,Stroke,Clopidogrel,6 months,Private,Dr. Green,Riverside Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,None,Yes,2,Bad experiance
+P106,68,Female,150/92,82,99.7,Arthritis,Naproxen,3 months,Private,Dr. Clark,City Hospital,Normal,No Issues,Knee Replacement,6 weeks,None,Yes,3,average doctors and treatment
+P107,52,Male,140/85,76,99.1,Heart Disease,Atorvastatin,8 months,Public,Dr. Harris,Greenfield Medical,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,4,very good
+P108,35,Female,125/80,72,98.6,Anxiety,Sertraline,4 months,Private,Dr. Turner,North Valley,Normal,No Issues,None,3 weeks,None,No,5,great
+P109,47,Male,130/84,79,99,Asthma,Salbutamol,3 months,Public,Dr. Davis,Summit Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,4,great
+P110,29,Female,120/75,68,98.5,Cold,Paracetamol,1 week,Private,Dr. Green,Riverdale Medical,Normal,Clear,None,7 days,None,No,5,too good
+P111,56,Male,135/90,80,99.3,Hypertension,Lisinopril,6 months,Private,Dr. Brown,Oakwood Health,Normal,No Issues,None,4 weeks,None,Yes,3,good facilities
+P112,42,Female,128/78,74,98.9,Diabetes Type 1,Insulin,1 year,Public,Dr. Smith,Valley View,Elevated Blood Sugar,No Issues,None,2 months,None,Yes,4,gerat staff and support
+P113,50,Male,140/88,85,99.5,Stroke,Clopidogrel,7 months,Private,Dr. Johnson,City Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,None,Yes,3,poor support
+P114,37,Female,125/77,72,98.7,Migraine,Sumatriptan,2 weeks,Private,Dr. Lee,Riverside Hospital,Normal,No Issues,None,10 days,None,No,5,very good for old people
+P115,45,Male,145/92,83,99.6,Heart Disease,Aspirin,12 months,Public,Dr. Clark,Summit Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Penicillin,Yes,3,very average for middle age
+P116,33,Female,120/76,70,98.4,Anxiety,Diazepam,2 months,Private,Dr. Brown,Greenfield Medical,Normal,No Issues,None,2 weeks,None,No,5,very good
+P117,59,Male,150/94,89,99.8,Stroke,Warfarin,9 months,Public,Dr. Harris,North Valley,High Cholesterol,No Issues,Craniotomy,4 months,Peanuts,Yes,2,poor experiance
+P118,40,Female,135/85,78,99,Migraine,Ibuprofen,3 weeks,Private,Dr. Taylor,Valley View,Normal,No Issues,None,2 weeks,None,Yes,4,very good
+P119,48,Male,130/80,75,98.8,Hypertension,Amlodipine,6 months,Public,Dr. Davis,Oakwood Health,Normal,No Issues,None,4 weeks,None,Yes,3,amazing
+P120,51,Female,140/88,77,99.2,Asthma,Albuterol,5 months,Private,Dr. Green,City Hospital,Normal,No Issues,None,3 weeks,Dust,No,5,super
+P121,36,Male,125/79,73,98.6,Cold,Paracetamol,1 week,Private,Dr. Johnson,Riverdale Medical,Normal,Clear,None,7 days,None,No,5,great
+P122,64,Female,145/92,84,99.7,Arthritis,Naproxen,4 months,Public,Dr. Lee,Summit Hospital,Normal,No Issues,Hip Replacement,6 weeks,None,Yes,4,good
+P123,28,Male,120/75,68,98.4,Cold,Paracetamol,1 week,Private,Dr. Smith,North Valley,Normal,Clear,None,7 days,None,No,5,great doctors and support staff
+P124,55,Female,140/90,82,99.4,Diabetes Type 1,Metformin,1 year,Public,Dr. Harris,Valley View,Elevated Blood Sugar,Issues in X-ray,None,2 months,Peanuts,Yes,3,very average
+P125,43,Male,130/85,80,98.9,Heart Disease,Atorvastatin,7 months,Private,Dr. Clark,Greenfield Medical,Elevated Cholesterol,No Issues,None,2 months,None,Yes,4,good doctors
+P126,30,Female,125/78,72,98.7,Hypertension,Lisinopril,4 months,Private,Dr. Turner,Riverside Hospital,Normal,No Issues,None,3 weeks,None,No,4,good premises
+P127,54,Male,140/89,81,99.2,Asthma,Salbutamol,6 months,Public,Dr. Davis,City Hospital,Normal,No Issues,None,4 weeks,Pollen,Yes,5,very good and pristine environment
+P128,37,Female,130/80,75,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Greenfield Medical,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,normal
+P129,60,Male,145/92,86,99.5,Heart Disease,Aspirin,9 months,Private,Dr. Clark,Oakwood Health,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,average
+P130,33,Female,120/75,70,98.4,Migraine,Sumatriptan,2 weeks,Public,Dr. Johnson,Riverdale Medical,Normal,No Issues,None,10 days,None,Yes,5,good doctors
+P131,45,Male,135/85,78,99,Hypertension,Amlodipine,6 months,Private,Dr. Lee,Summit Hospital,Normal,No Issues,None,4 weeks,None,No,4,good
+P132,56,Female,140/88,80,99.3,Asthma,Albuterol,3 months,Public,Dr. Harris,North Valley,Normal,No Issues,None,2 weeks,Dust,Yes,4,good
+P133,40,Male,125/76,73,98.5,Cold,Paracetamol,1 week,Private,Dr. Turner,Valley View,Normal,Clear,None,7 days,None,No,5,very good
+P134,61,Female,145/91,83,99.6,Arthritis,Naproxen,4 months,Private,Dr. Green,City Hospital,Normal,No Issues,Knee Replacement,6 weeks,None,Yes,3,average
+P135,38,Male,130/80,75,98.9,Diabetes Type 1,Insulin,1 year,Public,Dr. Davis,Summit Hospital,Elevated Blood Sugar,No Issues,None,2 months,None,Yes,4,very good
+P136,32,Female,120/74,71,98.4,Hypertension,Lisinopril,3 months,Private,Dr. Harris,North Valley,Normal,No Issues,None,3 weeks,None,Yes,4,excellant
+P137,47,Male,135/80,78,99.1,Asthma,Salbutamol,5 months,Public,Dr. Taylor,Riverdale Medical,Normal,No Issues,None,2 weeks,Pollen,Yes,4,excellant
+P138,59,Female,140/89,80,99.3,Heart Disease,Aspirin,12 months,Private,Dr. Green,Oakwood Health,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,average
+P139,34,Male,125/77,73,98.7,Cold,Paracetamol,1 week,Public,Dr. Lee,Summit Hospital,Normal,Clear,None,7 days,None,No,5,great
+P140,49,Female,130/80,76,98.9,Asthma,Albuterol,6 months,Private,Dr. Brown,Greenfield Medical,Normal,No Issues,None,3 weeks,Dust,No,4,super
+P141,55,Male,145/92,82,99.5,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,City Hospital,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,average
+P142,39,Female,130/80,75,98.9,Hypertension,Lisinopril,6 months,Public,Dr. Clark,Riverdale Medical,Normal,No Issues,None,4 weeks,None,Yes,4,very good
+P143,63,Male,140/85,77,99.3,Asthma,Salbutamol,4 months,Private,Dr. Green,North Valley,Normal,No Issues,None,3 weeks,Pollen,Yes,5,too good
+P144,50,Female,135/86,78,99.1,Diabetes Type 1,Insulin,1 year,Public,Dr. Lee,Summit Hospital,Elevated Blood Sugar,No Issues,None,2 months,None,Yes,4,great
+P145,28,Male,125/76,74,98.6,Cold,Paracetamol,1 week,Private,Dr. Harris,Valley View,Normal,Clear,None,7 days,None,No,5,great
+P146,57,Female,140/90,82,99.4,Heart Disease,Aspirin,9 months,Private,Dr. Clark,Riverside Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,normal facilities
+P147,41,Male,135/87,80,99,Asthma,Albuterol,2 months,Public,Dr. Green,Oakwood Health,Normal,No Issues,None,2 weeks,Pollen,Yes,4,good but can be improved
+P148,49,Female,120/75,72,98.7,Hypertension,Amlodipine,4 months,Private,Dr. Davis,North Valley,Normal,No Issues,None,3 weeks,None,No,5,super
+P149,53,Male,140/90,81,99.3,Diabetes Type 1,Metformin,1 year,Private,Dr. Brown,City Hospital,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,below average
+P150,36,Female,130/85,78,99.2,Cold,Paracetamol,1 week,Public,Dr. Taylor,Riverdale Medical,Normal,Clear,None,7 days,None,No,5,excellant
+P151,65,Male,145/90,84,99.6,Asthma,Salbutamol,5 months,Private,Dr. Harris,Summit Hospital,Normal,No Issues,None,4 weeks,Pollen,Yes,4,very good
+P152,30,Female,120/75,71,98.5,Hypertension,Lisinopril,3 months,Private,Dr. Clark,Greenfield Medical,Normal,No Issues,None,3 weeks,None,Yes,5,very good
+P153,50,Male,135/88,80,99.3,Heart Disease,Atorvastatin,7 months,Public,Dr. Lee,Valley View,Elevated Cholesterol,No Issues,None,2 months,None,Yes,4,excellant
+P154,44,Female,140/90,78,99.1,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,City Hospital,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,normal
+P155,39,Male,130/85,75,98.9,Asthma,Salbutamol,4 months,Private,Dr. Brown,Summit Hospital,Normal,No Issues,None,3 weeks,Pollen,Yes,4,good
+P156,56,Female,145/90,82,99.5,Heart Disease,Aspirin,12 months,Private,Dr. Clark,Oakwood Health,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,normal
+P157,29,Male,125/75,72,98.7,Cold,Paracetamol,1 week,Public,Dr. Lee,Riverdale Medical,Normal,Clear,None,7 days,None,No,5,excellant
+P158,60,Female,140/85,80,99.3,Asthma,Albuterol,5 months,Private,Dr. Harris,North Valley,Normal,No Issues,None,4 weeks,Pollen,Yes,4,very good
+P159,45,Male,135/90,82,99.2,Hypertension,Lisinopril,6 months,Public,Dr. Green,Summit Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,normal
+P160,63,Female,145/92,85,99.5,Heart Disease,Aspirin,9 months,Private,Dr. Lee,City Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,excellant
+P161,49,Male,130/80,79,99,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,Greenfield Medical,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,super
+P162,34,Female,120/76,71,98.8,Cold,Paracetamol,1 week,Public,Dr. Clark,Riverside Hospital,Normal,Clear,None,7 days,None,No,5,amazing
+P163,57,Male,140/85,81,99.1,Asthma,Salbutamol,6 months,Private,Dr. Brown,Summit Hospital,Normal,No Issues,None,3 weeks,Pollen,Yes,4,very good
+P164,51,Female,135/80,78,99.2,Diabetes Type 1,Insulin,1 year,Public,Dr. Green,Oakwood Health,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,great
+P165,29,Male,120/75,72,98.6,Hypertension,Lisinopril,4 months,Private,Dr. Harris,North Valley,Normal,No Issues,None,3 weeks,None,No,5,outstanding
+P166,65,Female,145/90,83,99.3,Heart Disease,Atorvastatin,12 months,Private,Dr. Green,Riverdale Medical,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,normal
+P167,41,Male,130/85,80,99.2,Asthma,Albuterol,4 months,Public,Dr. Lee,Greenfield Medical,Normal,No Issues,None,3 weeks,Pollen,Yes,4,good doctors
+P168,58,Female,140/88,79,99.4,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,Summit Hospital,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,normal
+P169,34,Male,125/75,73,98.6,Cold,Paracetamol,1 week,Private,Dr. Brown,Riverdale Medical,Normal,Clear,None,7 days,None,No,5,great
+P170,60,Female,140/85,80,99.2,Asthma,Salbutamol,3 months,Private,Dr. Green,North Valley,Normal,No Issues,None,2 weeks,Pollen,Yes,4,super
+P171,38,Male,135/90,81,99.5,Heart Disease,Aspirin,9 months,Public,Dr. Taylor,Greenfield Medical,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,average
+P172,41,Female,130/85,76,99.1,Hypertension,Lisinopril,6 months,Private,Dr. Clark,Summit Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,average
+P173,45,Male,125/78,74,98.9,Diabetes Type 1,Metformin,1 year,Public,Dr. Lee,City Hospital,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,average
+P174,53,Female,140/90,82,99.3,Heart Disease,Aspirin,12 months,Private,Dr. Green,Riverdale Medical,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,poor facilities
+P175,31,Male,125/79,75,98.7,Cold,Paracetamol,1 week,Public,Dr. Harris,North Valley,Normal,Clear,None,7 days,None,No,5,excellant facilities
+P176,62,Female,145/90,80,99.5,Asthma,Albuterol,5 months,Private,Dr. Clark,Oakwood Health,Normal,No Issues,None,4 weeks,Pollen,Yes,5,super
+P177,37,Male,130/85,78,99,Diabetes Type 1,Insulin,1 year,Public,Dr. Lee,Greenfield Medical,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,4,very good
+P178,55,Female,140/88,79,99.3,Heart Disease,Aspirin,9 months,Private,Dr. Harris,City Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,normal
+P179,49,Male,135/80,77,99.2,Asthma,Salbutamol,3 months,Private,Dr. Taylor,Riverdale Medical,Normal,No Issues,None,3 weeks,Pollen,Yes,4,very good
+P180,40,Female,120/75,72,98.7,Cold,Paracetamol,1 week,Public,Dr. Green,Summit Hospital,Normal,Clear,None,7 days,None,No,5,super
+P181,57,Male,140/85,81,99.4,Heart Disease,Atorvastatin,12 months,Private,Dr. Harris,Greenfield Medical,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,3,normal
+P182,30,Female,125/78,73,98.9,Diabetes Type 1,Metformin,1 year,Public,Dr. Clark,Riverdale Medical,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,4,excellant
+P183,44,Male,135/90,80,99.3,Asthma,Salbutamol,5 months,Private,Dr. Green,Summit Hospital,Normal,No Issues,None,3 weeks,Pollen,Yes,4,excellant
+P184,55,Female,140/88,79,99.2,Heart Disease,Atorvastatin,9 months,Private,Dr. Lee,Oakwood Health,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,Yes,-3,poor
+P185,62,Male,145/90,82,99.5,Diabetes Type 1,Insulin,1 year,Public,Dr. Taylor,North Valley,Elevated Blood Sugar,No Issues,None,2 months,Peanuts,Yes,3,average
+P186,45,Female,130/85,78,98.7,Hypertension,Amlodipine,6 months,Private,Dr. Smith,City Hospital,Normal,No Issues,None,3 weeks,None,No,4,super
+P187,62,Male,140/90,82,99.2,Heart Disease,Aspirin,12 months,Public,Dr. Green,Summit Hospital,Elevated Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,Yes,3,super
+P188,38,Female,120/75,76,98.5,Asthma,Salbutamol,3 months,Private,Dr. Brown,North Valley Hospital,Normal,No Issues,None,2 weeks,None,No,5,amazing
+P189,55,Male,135/85,80,99.1,Diabetes Type 1,Metformin,1 year,Public,Dr. Taylor,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,4 weeks,Peanuts,Yes,3,good
+P190,70,Female,125/80,74,98.9,Stroke,Clopidogrel,6 months,Private,Dr. Lee,City Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,poor
+P191,45,Male,128/76,77,98.7,Arthritis,Ibuprofen,4 months,Public,Dr. Clark,Oakwood Health,Normal,No Issues,Hip Replacement,2 weeks,None,Yes,4,very good
+P192,33,Female,130/82,75,98.8,Anxiety,Sertraline,2 months,Private,Dr. Harris,Riverside Hospital,Normal,No Issues,None,1 week,None,Yes,5,super
+P193,50,Male,145/95,84,99.3,Hypertension,Lisinopril,6 months,Public,Dr. Davis,Valley View Hospital,Normal,No Issues,None,4 weeks,None,No,3,normal
+P194,29,Female,120/78,72,98.5,Cold,Paracetamol,1 week,Private,Dr. Turner,North Valley Hospital,Normal,Clear,None,7 days,None,Yes,5,very good
+P195,60,Male,150/100,86,99.6,Heart Disease,Aspirin,8 months,Public,Dr. Green,Summit Hospital,High Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,3,excellant
+P196,47,Female,135/80,78,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Smith,Riverside Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,amazing
+P197,51,Male,140/85,82,99.4,Migraine,Sumatriptan,4 months,Public,Dr. Taylor,Greenfield Medical Center,Normal,No Issues,None,2 weeks,None,No,5,good
+P198,36,Female,125/77,73,98.8,Asthma,Albuterol,5 months,Private,Dr. Brown,Oakwood Health,Normal,No Issues,None,2 weeks,Pollen,Yes,4,very good
+P199,63,Male,145/90,83,99.2,Heart Disease,Aspirin,9 months,Public,Dr. Lee,Summit Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,3 months,Dust,No,3,normal
+P200,40,Female,130/80,76,99,Stroke,Clopidogrel,6 months,Private,Dr. Harris,Riverside Hospital,High Cholesterol,No Issues,Stroke Surgery,2 months,None,Yes,2,poor
+P201,32,Male,120/75,78,98.6,Diabetes Type 1,Metformin,1 year,Private,Dr. Clark,Valley View Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,No,4,excellant
+P202,58,Female,135/88,80,99.5,Arthritis,Ibuprofen,4 months,Public,Dr. Turner,Greenfield Medical Center,Normal,No Issues,Hip Replacement,2 weeks,None,Yes,5,excellant
+P203,50,Male,140/85,81,99.4,Hypertension,Lisinopril,6 months,Private,Dr. Davis,City Hospital,Normal,No Issues,None,3 weeks,None,No,3,normal
+P204,70,Female,145/92,84,99.7,Stroke,Warfarin,7 months,Public,Dr. Green,Oakwood Health,High Cholesterol,No Issues,Stroke Surgery,4 months,Penicillin,Yes,2,poor
+P205,41,Male,125/80,76,98.7,Migraine,Ibuprofen,3 months,Private,Dr. Harris,Riverside Hospital,Normal,No Issues,None,2 weeks,None,No,5,super
+P206,54,Female,140/90,79,99.3,Heart Disease,Aspirin,12 months,Public,Dr. Clark,Greenfield Medical Center,Elevated Cholesterol,No Issues,Coronary Artery Bypass,3 months,None,Yes,3,normal
+P207,65,Male,135/88,83,99.2,Hypertension,Amlodipine,6 months,Private,Dr. Lee,Summit Hospital,Normal,No Issues,None,4 weeks,None,No,4,very good
+P208,43,Female,130/85,77,98.9,Asthma,Salbutamol,2 months,Public,Dr. Brown,City Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,amazing
+P209,56,Male,140/85,80,99.4,Stroke,Clopidogrel,6 months,Private,Dr. Taylor,Riverside Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,poor
+P210,48,Female,135/80,78,99.3,Arthritis,Ibuprofen,6 months,Private,Dr. Turner,Summit Hospital,Normal,No Issues,Hip Replacement,4 weeks,None,Yes,4,great
+P211,60,Male,150/90,82,99.5,Heart Disease,Aspirin,9 months,Public,Dr. Green,Oakwood Health,High Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,3,normal
+P212,39,Female,125/78,76,98.6,Hypertension,Amlodipine,3 months,Private,Dr. Lee,City Hospital,Normal,No Issues,None,2 weeks,None,No,4,super
+P213,33,Male,130/84,77,98.7,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,Riverside Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,super
+P214,46,Female,135/80,79,99.2,Asthma,Salbutamol,2 months,Public,Dr. Green,Greenfield Medical Center,Normal,No Issues,None,2 weeks,Pollen,Yes,5,excellant
+P215,60,Male,145/92,84,99.3,Heart Disease,Aspirin,12 months,Private,Dr. Clark,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,Yes,3,good
+P216,52,Female,140/90,80,99.1,Hypertension,Lisinopril,6 months,Public,Dr. Turner,Oakwood Health,Normal,No Issues,None,3 weeks,None,No,3,good
+P217,29,Male,125/75,74,98.7,Migraine,Sumatriptan,4 months,Private,Dr. Green,Summit Hospital,Normal,No Issues,None,2 weeks,None,No,5,amazing
+P218,59,Female,135/85,81,99.4,Stroke,Clopidogrel,8 months,Public,Dr. Harris,Riverside Hospital,High Cholesterol,No Issues,Stroke Surgery,4 months,Penicillin,Yes,2,poor
+P219,41,Male,130/82,78,99.2,Diabetes Type 1,Metformin,1 year,Private,Dr. Clark,North Valley Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,No,4,very good
+P220,65,Female,145/90,83,99.3,Hypertension,Amlodipine,6 months,Public,Dr. Taylor,Valley View Hospital,Normal,No Issues,None,4 weeks,None,No,3,normal
+P221,43,Male,120/78,76,98.6,Arthritis,Ibuprofen,5 months,Private,Dr. Lee,Greenfield Medical Center,Normal,No Issues,Hip Replacement,2 weeks,None,Yes,4,very good
+P222,50,Female,130/84,79,99.1,Stroke,Warfarin,9 months,Public,Dr. Green,Oakwood Health,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,2,too bad
+P223,45,Male,135/85,80,99,Heart Disease,Aspirin,12 months,Private,Dr. Harris,City Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,3,normal
+P224,40,Female,125/80,77,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Clark,North Valley Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,super
+P225,55,Male,145/92,83,99.5,Asthma,Salbutamol,6 months,Public,Dr. Turner,Summit Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great
+P226,48,Female,130/85,79,99.3,Heart Disease,Aspirin,9 months,Private,Dr. Green,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,amazing
+P227,36,Male,125/80,74,98.7,Migraine,Sumatriptan,3 months,Private,Dr. Harris,Riverside Hospital,Normal,No Issues,None,2 weeks,None,Yes,5,excellant
+P228,60,Female,140/90,81,99.2,Hypertension,Lisinopril,6 months,Public,Dr. Taylor,Oakwood Health,Normal,No Issues,None,3 weeks,None,No,4,great
+P229,55,Male,135/88,80,99.1,Arthritis,Ibuprofen,4 months,Private,Dr. Lee,Greenfield Medical Center,Normal,No Issues,Hip Replacement,2 weeks,None,Yes,4,amazing
+P230,29,Female,130/80,75,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Turner,Summit Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,super
+P231,65,Male,145/92,84,99.2,Heart Disease,Aspirin,12 months,Public,Dr. Green,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,average
+P232,37,Female,125/75,73,98.5,Migraine,Ibuprofen,3 months,Private,Dr. Taylor,Oakwood Health,Normal,No Issues,None,2 weeks,None,Yes,5,good
+P233,51,Male,130/80,78,98.9,Hypertension,Amlodipine,6 months,Public,Dr. Green,Greenfield Medical Center,Normal,No Issues,None,4 weeks,None,Yes,3,average
+P234,60,Female,145/90,81,99.3,Asthma,Salbutamol,9 months,Private,Dr. Brown,City Hospital,Normal,No Issues,None,3 weeks,Pollen,No,5,good
+P235,49,Male,130/85,79,99.2,Heart Disease,Aspirin,12 months,Public,Dr. Lee,Summit Hospital,Elevated Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,3,average
+P236,42,Female,130/80,78,98.6,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,City Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,super
+P237,56,Male,140/85,82,99.4,Hypertension,Lisinopril,6 months,Public,Dr. Green,North Valley Hospital,Normal,No Issues,None,3 weeks,None,No,3,good
+P238,28,Female,125/75,74,98.8,Asthma,Salbutamol,4 months,Private,Dr. Brown,Summit Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,amazing
+P239,61,Male,145/90,84,99.5,Heart Disease,Aspirin,9 months,Public,Dr. Lee,Oakwood Health,Elevated Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,normal
+P240,39,Female,130/82,77,98.9,Stroke,Clopidogrel,6 months,Private,Dr. Turner,City Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,2,too bad
+P241,48,Male,135/85,80,99.2,Diabetes Type 1,Metformin,1 year,Public,Dr. Harris,Riverside Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,No,4,good
+P242,30,Female,120/75,72,98.6,Hypertension,Amlodipine,4 months,Private,Dr. Green,Valley View Hospital,Normal,No Issues,None,2 weeks,None,Yes,5,excellant
+P243,64,Male,145/92,83,99.3,Heart Disease,Aspirin,8 months,Public,Dr. Lee,Summit Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,Yes,3,good
+P244,52,Female,140/88,81,99,Migraine,Ibuprofen,6 months,Private,Dr. Clark,Greenfield Medical Center,Normal,No Issues,None,3 weeks,None,No,4,good
+P245,49,Male,130/80,78,99.2,Stroke,Warfarin,7 months,Public,Dr. Taylor,City Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,2,bad
+P246,41,Female,125/78,76,98.9,Asthma,Albuterol,5 months,Private,Dr. Harris,North Valley Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,4,outstanding
+P247,34,Male,130/85,79,99.4,Diabetes Type 1,Metformin,1 year,Private,Dr. Turner,Summit Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,No,4,super
+P248,60,Female,140/90,80,99.1,Hypertension,Lisinopril,6 months,Public,Dr. Green,Oakwood Health,Normal,No Issues,None,4 weeks,None,Yes,3,normal
+P249,55,Male,125/75,77,98.8,Heart Disease,Aspirin,9 months,Private,Dr. Clark,Valley View Hospital,High Cholesterol,Issues in X-ray,Coronary Artery Bypass,2 months,Dust,Yes,3,normal
+P250,44,Female,130/85,79,99.2,Asthma,Salbutamol,3 months,Public,Dr. Lee,Greenfield Medical Center,Normal,No Issues,None,2 weeks,Pollen,Yes,5,very good
+P251,59,Male,145/92,84,99.3,Hypertension,Amlodipine,6 months,Private,Dr. Harris,North Valley Hospital,Normal,No Issues,None,4 weeks,None,No,4,very good
+P252,51,Female,140/90,82,99.5,Heart Disease,Aspirin,12 months,Public,Dr. Turner,Riverside Hospital,Elevated Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,Yes,3,excellant
+P253,38,Male,125/80,75,98.7,Stroke,Clopidogrel,6 months,Private,Dr. Brown,Oakwood Health,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,too bad
+P254,30,Female,130/78,76,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Lee,City Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,too good
+P255,46,Male,140/85,81,99,Hypertension,Lisinopril,6 months,Public,Dr. Green,Greenfield Medical Center,Normal,No Issues,None,3 weeks,None,No,3,poor
+P256,62,Female,135/80,80,99.4,Heart Disease,Aspirin,9 months,Private,Dr. Turner,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,worst
+P257,28,Male,125/75,74,98.8,Asthma,Albuterol,4 months,Private,Dr. Clark,North Valley Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,amazing
+P258,59,Female,140/90,82,99.1,Migraine,Ibuprofen,6 months,Public,Dr. Harris,Summit Hospital,Normal,No Issues,None,3 weeks,None,Yes,4,great
+P259,50,Male,135/85,79,99.2,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Valley View Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,great
+P260,48,Female,130/80,77,99.3,Stroke,Warfarin,7 months,Public,Dr. Taylor,Greenfield Medical Center,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P261,45,Male,125/75,78,98.7,Asthma,Salbutamol,4 months,Private,Dr. Lee,Oakwood Health,Normal,No Issues,None,2 weeks,Pollen,Yes,5,excellant
+P262,56,Female,140/85,80,99.2,Heart Disease,Aspirin,9 months,Public,Dr. Turner,Summit Hospital,Elevated Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,very bad
+P263,37,Male,130/80,76,99.3,Hypertension,Amlodipine,6 months,Private,Dr. Clark,Riverside Hospital,Normal,No Issues,None,3 weeks,None,No,4,good
+P264,53,Female,145/90,83,99.1,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,average
+P265,29,Male,125/80,75,98.9,Heart Disease,Aspirin,12 months,Public,Dr. Taylor,Oakwood Health,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,god
+P266,61,Female,140/90,82,99.5,Asthma,Albuterol,6 months,Private,Dr. Brown,City Hospital,Normal,No Issues,None,3 weeks,Pollen,Yes,4,good
+P267,38,Male,130/85,79,99.2,Stroke,Clopidogrel,9 months,Public,Dr. Lee,Valley View Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,2,poor
+P268,47,Female,135/80,80,99.3,Hypertension,Lisinopril,6 months,Private,Dr. Harris,North Valley Hospital,Normal,No Issues,None,4 weeks,None,No,3,normal
+P269,55,Male,120/75,73,98.6,Asthma,Salbutamol,4 months,Public,Dr. Green,Greenfield Medical Center,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great
+P270,49,Female,130/85,77,99.1,Diabetes Type 1,Metformin,1 year,Private,Dr. Brown,Valley View Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,amazing
+P271,30,Male,125/78,75,98.9,Heart Disease,Aspirin,9 months,Public,Dr. Lee,Oakwood Health,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,Yes,3,super
+P272,33,Female,140/88,80,99.3,Stroke,Warfarin,6 months,Private,Dr. Green,Summit Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,too bad
+P273,59,Male,135/80,79,99.2,Asthma,Albuterol,4 months,Public,Dr. Harris,Riverside Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,super
+P274,62,Female,145/90,83,99.5,Hypertension,Amlodipine,7 months,Private,Dr. Brown,City Hospital,Normal,No Issues,None,4 weeks,None,Yes,3,good
+P275,47,Male,130/80,77,98.9,Heart Disease,Aspirin,12 months,Public,Dr. Turner,Summit Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,Yes,3,average
+P276,28,Female,125/75,74,98.8,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,No,4,super
+P277,55,Male,140/85,80,99,Stroke,Clopidogrel,6 months,Private,Dr. Green,Valley View Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,Yes,2,bad
+P278,50,Female,130/80,79,99.2,Asthma,Salbutamol,4 months,Public,Dr. Clark,North Valley Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great doctors
+P279,33,Male,135/80,78,99.1,Hypertension,Lisinopril,5 months,Private,Dr. Lee,Summit Hospital,Normal,No Issues,None,3 weeks,None,Yes,4,good facility
+P280,60,Female,145/90,84,99.4,Heart Disease,Aspirin,9 months,Public,Dr. Turner,Greenfield Medical Center,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,average docyots
+P281,45,Male,125/75,76,98.9,Asthma,Albuterol,3 months,Private,Dr. Green,Riverside Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great experiance saved life!
+P282,58,Female,140/85,80,99,Stroke,Warfarin,6 months,Public,Dr. Harris,City Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,too bad
+P283,54,Male,130/78,77,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Lee,Summit Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,good but expensive
+P284,48,Female,125/75,75,98.6,Hypertension,Amlodipine,6 months,Public,Dr. Brown,Greenfield Medical Center,Normal,No Issues,None,3 weeks,None,No,4,good
+P285,35,Male,130/80,78,99.1,Heart Disease,Aspirin,12 months,Private,Dr. Green,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,Yes,3,affordable but average
+P286,33,Female,130/78,75,98.9,Hypertension,Lisinopril,6 months,Private,Dr. Brown,Valley View Hospital,Normal,No Issues,None,3 weeks,None,Yes,4,good
+P287,44,Male,140/85,81,99.2,Heart Disease,Aspirin,9 months,Public,Dr. Lee,Summit Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,good
+P288,39,Female,125/75,74,98.6,Asthma,Albuterol,4 months,Private,Dr. Harris,Greenfield Medical Center,Normal,No Issues,None,2 weeks,Pollen,Yes,5,very good and cost effective
+P289,56,Male,145/90,82,99.3,Diabetes Type 1,Metformin,1 year,Public,Dr. Green,North Valley Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,amazing
+P290,52,Female,140/85,-80,99.1,Stroke,Clopidogrel,7 months,Private,Dr. Turner,Summit Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P291,31,Male,125/80,78,-98.7,Diabetes Type 1,Metformin,1 year,Private,Dr. Lee,City Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,great
+P292,28,Female,130/75,76,-98.8,Asthma,Salbutamol,4 months,Public,Dr. Clark,Riverside Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,super
+P293,48,Male,135/80,79,-99.2,Heart Disease,Aspirin,12 months,Public,Dr. Green,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,amazing
+P294,62,Female,140/90,83,-99,Stroke,Warfarin,6 months,Private,Dr. Brown,Greenfield Medical Center,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P295,41,Male,130/80,75,-98.9,Hypertension,Amlodipine,4 months,Private,Dr. Harris,Oakwood Health,Normal,No Issues,None,3 weeks,None,Yes,4,great
+P296,55,Female,145/90,-84,99.2,Asthma,Albuterol,6 months,Public,Dr. Turner,Summit Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,super
+P297,47,Male,125/75,76,98.8,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Valley View Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,super
+P298,60,Female,135/85,80,99.3,Heart Disease,Aspirin,9 months,Public,Dr. Brown,Greenfield Medical Center,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,good
+P299,54,Male,140/85,81,99.1,Stroke,Clopidogrel,6 months,Private,Dr. Lee,North Valley Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P300,38,Female,130/78,77,98.9,Asthma,Salbutamol,4 months,Private,Dr. Harris,Oakwood Health,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great
+P301,59,Male,145/92,84,99.4,Diabetes Type 1,Metformin,1 year,Public,Dr. Turner,Summit Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,great
+P302,50,Female,130/80,78,99.2,Heart Disease,Aspirin,12 months,Private,Dr. Green,Riverside Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,amazing
+P303,43,Male,135/85,79,99.3,Stroke,Warfarin,7 months,Public,Dr. Lee,Valley View Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P304,28,Female,125/75,74,98.8,Asthma,Albuterol,4 months,Private,Dr. Clark,North Valley Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,super
+P305,51,Male,140/85,80,99,Diabetes Type 1,Metformin,1 year,Private,Dr. Harris,Oakwood Health,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,super
+P306,34,Female,130/75,76,98.6,Hypertension,Lisinopril,4 months,Private,Dr. Brown,Summit Hospital,Normal,No Issues,None,2 weeks,None,Yes,4,super
+P307,63,Male,145/92,83,99.4,Heart Disease,Aspirin,9 months,Public,Dr. Green,Greenfield Medical Center,High Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,No,3,good
+P308,29,Female,130/80,77,99.2,Stroke,Clopidogrel,6 months,Private,Dr. Turner,Riverside Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P309,38,Male,125/75,74,98.9,Diabetes Type 1,Metformin,1 year,Public,Dr. Harris,City Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,good
+P310,46,Female,140/85,81,99.3,Asthma,Salbutamol,6 months,Private,Dr. Lee,North Valley Hospital,Normal,No Issues,None,3 weeks,Pollen,Yes,5,excellant
+P311,60,Male,145/92,83,99.4,Heart Disease,Aspirin,9 months,Public,Dr. Green,Summit Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,average
+P312,40,Female,130/78,79,99.2,Stroke,Warfarin,6 months,Private,Dr. Brown,Valley View Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,worst
+P313,49,Male,125/75,77,98.9,Hypertension,Amlodipine,4 months,Public,Dr. Lee,Oakwood Health,Normal,No Issues,None,3 weeks,None,Yes,4,amazing
+P314,52,Female,140/85,80,99.1,Asthma,Salbutamol,6 months,Private,Dr. Harris,Summit Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great
+P315,41,Male,130/80,75,99,Diabetes Type 1,Metformin,1 year,Public,Dr. Green,Riverside Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,good
+P316,63,Female,135/85,82,99.3,Heart Disease,Aspirin,9 months,Private,Dr. Lee,Greenfield Medical Center,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,good
+P317,56,Male,140/88,81,99.2,Stroke,Clopidogrel,7 months,Private,Dr. Brown,North Valley Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P318,-45,Female,130/75,76,98.9,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Valley View Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,excellant
+P319,-55,Male,140/85,80,99,Asthma,Salbutamol,6 months,Public,Dr. Harris,City Hospital,Normal,No Issues,None,3 weeks,Pollen,Yes,5,super
+P320,-62,Female,145/92,84,99.4,Heart Disease,Aspirin,9 months,Private,Dr. Turner,Oakwood Health,High Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,No,3,amazing
+P321,53,Male,130/80,77,99.2,Stroke,Warfarin,6 months,Private,Dr. Lee,Greenfield Medical Center,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,good
+P322,48,Female,135/85,80,99.1,Diabetes Type 1,Metformin,1 year,Public,Dr. Green,North Valley Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,good
+P323,60,Male,140/90,84,99.3,Asthma,Albuterol,4 months,Private,Dr. Brown,Summit Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great
+P324,54,Female,130/75,79,99.2,Heart Disease,Aspirin,12 months,Public,Dr. Green,City Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,3 months,Dust,No,3,normal
+P325,33,Male,125/75,74,98.8,Stroke,Warfarin,6 months,Private,Dr. Turner,North Valley Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P326,41,Female,130/80,76,99.1,Diabetes Type 1,Metformin,1 year,Public,Dr. Lee,Summit Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,great
+P327,58,Male,140/85,81,99.3,Asthma,Salbutamol,6 months,Private,Dr. Harris,Oakwood Health,Normal,No Issues,None,3 weeks,Pollen,Yes,5,excellant
+P328,45,Female,135/80,79,99.2,Heart Disease,Aspirin,12 months,Private,Dr. Green,Valley View Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,normal
+P329,34,Male,125/75,74,98.8,Stroke,Clopidogrel,6 months,Public,Dr. Brown,Greenfield Medical Center,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,poor
+P330,62,Female,140/85,80,99.3,Diabetes Type 1,Metformin,1 year,Private,Dr. Turner,Riverside Hospital,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,great
+P331,50,Male,130/80,77,98.9,Asthma,Albuterol,4 months,Public,Dr. Lee,North Valley Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,very good
+P332,43,Female,135/85,78,99.1,Heart Disease,Aspirin,12 months,Private,Dr. Harris,Summit Hospital,High Cholesterol,No Issues,Coronary Artery Bypass,2 months,Dust,No,3,normal
+P333,28,Male,125/75,75,98.7,Diabetes Type 1,Metformin,1 year,Private,Dr. Green,Greenfield Medical Center,Elevated Blood Sugar,No Issues,None,3 months,Peanuts,Yes,4,good
+P334,62,Female,145/90,83,99.4,Stroke,Warfarin,6 months,Public,Dr. Brown,Valley View Hospital,High Cholesterol,No Issues,Stroke Surgery,3 months,Penicillin,No,2,bad
+P335,36,Male,130/80,76,99.2,Asthma,Salbutamol,6 months,Private,Dr. Lee,North Valley Hospital,Normal,No Issues,None,2 weeks,Pollen,Yes,5,great
+P336,45,Male,130/85,78,98.6,Hypertension,Amlodipine,4 weeks,Private,Dr. John Smith,St. Mary's Hospital,Normal,Normal,None,2 weeks,None,Hypertension,4,good
+P337,62,Female,145/90,82,99,Diabetes Type 2,Metformin,6 weeks,Public,Dr. Jane Doe,City General,Elevated Glucose,Abnormal,None,4 weeks,Pollen,Diabetes,3,normal
+P338,30,Male,120/80,72,98.4,Cold,Ibuprofen,1 week,Private,Dr. Sarah Lee,Green Valley Clinic,Normal,Clear,None,1 week,Penicillin,None,5,very good
+P339,50,Female,135/85,75,98.7,Asthma,Albuterol,2 weeks,Public,Dr. Mark Kim,Sunshine Hospital,Normal,Clear,None,2 weeks,Dust,Asthma,4,excellant
+P340,70,Male,150/95,85,99.2,Heart Disease,Beta Blockers,8 weeks,Private,Dr. Emma Wong,Heart Care Center,Elevated Cholesterol,Mild Cardiomegaly,Coronary Bypass,6 weeks,None,Heart Disease,3,normal
+P341,28,Female,110/70,70,98.2,Urinary Tract Infection,Ciprofloxacin,7 days,Public,Dr. Laura Brown,City Hospital,Positive for UTI,Normal,None,1 week,Penicillin,None,5,too good
+P342,56,Male,140/92,78,99.5,Pneumonia,Antibiotics,4 weeks,Private,Dr. Michael Clark,Northside Hospital,Positive for Pneumonia,Infiltrates in Lungs,None,3 weeks,None,None,4,amazing
+P343,40,Female,125/80,74,98.5,Migraine,Sumatriptan,3 days,Private,Dr. Olivia Black,Sunset Clinic,Normal,Normal,None,1 week,None,Migraine,5,excellant
+P344,68,Male,155/98,90,99.3,Stroke,Antiplatelets,12 weeks,Public,Dr. Alex Gray,Riverside Hospital,Elevated Blood Sugar,Abnormal,None,8 weeks,None,Stroke,3,super
+P345,34,Female,122/80,76,98.6,Anemia,Iron Supplements,4 weeks,Private,Dr. Alice Green,Maple Leaf Hospital,Low Hemoglobin,Normal,None,2 weeks,None,Anemia,5,great
+P346,55,Male,130/85,72,98.9,Diabetes Type 1,Insulin,6 weeks,Private,Dr. Robert Brown,Green Valley Clinic,High Blood Sugar,Normal,None,5 weeks,Penicillin,Diabetes,4,good
+P347,25,Female,118/76,68,98.4,Thyroid Disorder,Levothyroxine,6 weeks,Public,Dr. Jason White,St. Peter's Clinic,Normal,Normal,None,4 weeks,None,Thyroid Disorder,5,good
+P348,72,Male,160/100,88,99.6,Hypertension,Captopril,4 weeks,Private,Dr. Laura Green,Elite Care Hospital,High Cholesterol,Abnormal,None,3 weeks,None,Hypertension,3,good
+P349,47,Female,130/85,78,98.7,Anxiety,Alprazolam,2 weeks,Public,Dr. Richard Black,Central Hospital,Normal,Normal,None,1 week,None,Anxiety,5,great
+P350,60,Male,145/90,82,99.1,Arthritis,Methotrexate,8 weeks,Private,Dr. Grace Lee,Health First Clinic,Normal,Normal,None,6 weeks,None,Arthritis,4,super
+P351,38,Female,128/84,80,98.4,Asthma,Inhaler,2 weeks,Public,Dr. Steve Clark,City Care Hospital,Normal,Clear,None,2 weeks,Pollen,Asthma,4,super
+P352,63,Male,148/92,86,99.2,COPD,Bronchodilators,8 weeks,Private,Dr. Benjamin Black,City General,Elevated CO2 Levels,Abnormal,None,6 weeks,None,COPD,3,very good
+P353,27,Female,120/80,76,98.5,Skin Rash,Hydrocortisone,1 week,Private,Dr. Emily Green,Riverside Hospital,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P354,53,Male,135/88,78,98.9,Gastritis,Omeprazole,3 weeks,Public,Dr. Jennifer White,St. Mary's Hospital,Normal,Normal,None,2 weeks,None,Gastritis,4,amazing
+P355,29,Female,118/76,72,98.6,Migraine,Triptans,1 week,Private,Dr. Michael Black,Green Valley Clinic,Normal,Normal,None,1 week,None,Migraine,5,amazing
+P356,44,Male,132/85,74,98.4,Back Pain,Pain Relievers,4 weeks,Private,Dr. Robert Brown,Sunshine Hospital,Normal,Normal,None,3 weeks,None,Back Pain,4,good
+P357,58,Female,138/92,80,99.4,Stroke,Blood Thinners,10 weeks,Public,Dr. Rachel Blue,St. John’s Clinic,High Cholesterol,Abnormal,None,6 weeks,None,Stroke,3,normal
+P358,33,Male,125/78,75,98.5,Anxiety,Sertraline,3 weeks,Private,Dr. William Green,Central Care Hospital,Normal,Normal,None,3 weeks,None,Anxiety,5,very good
+P359,65,Female,142/88,82,99.2,Pneumonia,Antibiotics,4 weeks,Public,Dr. Sarah Black,St. Peter's Clinic,Positive for Pneumonia,Clear,None,3 weeks,None,Pneumonia,4,too good
+P360,40,Male,128/84,74,98.7,Influenza,Oseltamivir,2 weeks,Private,Dr. Michael White,Green Valley Clinic,Positive for Influenza,Normal,None,1 week,None,Influenza,5,excellant
+P361,72,Female,160/98,85,99.3,Heart Disease,Statins,6 weeks,Public,Dr. Edward Clark,Central Care Center,High Cholesterol,Cardiomegaly,Coronary Bypass,6 weeks,None,Heart Disease,3,good
+P362,24,Male,120/80,70,98.3,Cold,Paracetamol,1 week,Private,Dr. Emily Brown,Green Valley Hospital,Normal,Clear,None,1 week,None,None,5,good
+P363,56,Female,140/88,78,99.1,Osteoarthritis,Ibuprofen,8 weeks,Private,Dr. Jason White,Sunshine Hospital,Normal,Clear,None,6 weeks,None,Osteoarthritis,4,good
+P364,60,Male,150/95,80,99,Kidney Disease,Diuretics,10 weeks,Public,Dr. Joseph Green,City Hospital,High Creatinine,Abnormal,None,8 weeks,None,Kidney Disease,3,poor
+P365,39,Female,130/85,74,98.8,Anxiety,Diazepam,3 weeks,Private,Dr. Rachel White,St. John's Hospital,Normal,Normal,None,3 weeks,None,Anxiety,5,very good
+P366,62,Female,140/90,84,99.1,Hypertension,Losartan,6 weeks,Private,Dr. Linda Green,St. Peter's Hospital,Normal,Normal,None,4 weeks,None,Hypertension,4,excellant
+P367,34,Male,120/78,75,98.4,Cold,Antihistamines,1 week,Public,Dr. Karen Smith,Green Valley Clinic,Normal,Clear,None,1 week,None,None,5,amazing
+P368,57,Female,135/88,77,99,Asthma,Inhalers,3 weeks,Private,Dr. David White,Central Care Hospital,Normal,Normal,None,2 weeks,Dust,Asthma,4,great
+P369,48,Male,138/90,80,99.3,Arthritis,Nonsteroidal anti-inflammatory drugs,6 weeks,Public,Dr. James Brown,St. John's Clinic,Normal,Normal,None,4 weeks,None,Arthritis,4,great
+P370,29,Female,110/70,72,98.2,Urinary Tract Infection,Amoxicillin,7 days,Private,Dr. Rachel Clark,Elite Care Center,Positive for UTI,Normal,None,1 week,None,None,5,very good
+P371,66,Male,160/95,85,99.5,Heart Disease,Angiotensin Converting Enzyme inhibitors,10 weeks,Public,Dr. Sarah Green,City General,Elevated Cholesterol,Abnormal,Coronary Angioplasty,8 weeks,None,Heart Disease,3,poor
+P372,41,Female,125/80,74,98.5,Migraine,Ibuprofen,2 weeks,Private,Dr. Emma White,Health First Clinic,Normal,Normal,None,2 weeks,None,Migraine,5,very good
+P373,55,Male,145/92,86,99.2,Pneumonia,Amoxicillin,6 weeks,Public,Dr. Mary Black,St. Mary's Hospital,Positive for Pneumonia,Abnormal,None,4 weeks,None,Pneumonia,4,good
+P374,64,Female,138/88,82,99,Diabetes Type 2,Insulin,8 weeks,Private,Dr. Brian Green,Green Valley Clinic,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,3,good
+P375,50,Male,135/80,75,98.6,Thyroid Disorder,L-Thyroxine,4 weeks,Private,Dr. Jason Lee,City Care Hospital,Normal,Normal,None,3 weeks,None,Thyroid Disorder,5,amazing
+P376,27,Female,122/78,73,98.4,Skin Rash,Hydrocortisone,1 week,Public,Dr. Linda Brown,Sunshine Hospital,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P377,72,Male,155/100,88,99.4,Stroke,Anticoagulants,12 weeks,Private,Dr. Thomas Clark,Riverside Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P378,46,Female,130/85,78,98.7,Anemia,Ferrous Sulfate,6 weeks,Public,Dr. David Green,St. Peter's Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,execllant
+P379,61,Male,140/88,84,99.1,Heart Disease,Diuretics,8 weeks,Private,Dr. Emily Black,City Hospital,High Cholesterol,Cardiomegaly,Angioplasty,6 weeks,None,Heart Disease,4,good
+P380,55,Female,130/90,76,98.8,Arthritis,Anti-inflammatory drugs,6 weeks,Public,Dr. Karen Lee,Central Care Hospital,Normal,Normal,None,5 weeks,None,Arthritis,4,great
+P381,30,Male,125/80,72,98.3,Cold,Decongestants,1 week,Private,Dr. Robert White,Green Valley Clinic,Normal,Normal,None,1 week,None,None,5,amazing
+P382,59,Female,145/90,83,99,COPD,Bronchodilators,10 weeks,Private,Dr. Janet Brown,Heart Care Center,Elevated CO2,Abnormal,None,8 weeks,None,COPD,3,super
+P383,42,Male,130/80,75,98.6,Back Pain,Muscle Relaxants,4 weeks,Public,Dr. John Green,Health First Clinic,Normal,Normal,None,3 weeks,None,Back Pain,5,super
+P384,68,Female,150/95,87,99.4,Hypertension,Calcium Channel Blockers,12 weeks,Private,Dr. Rachel Black,City General,High Cholesterol,Abnormal,None,10 weeks,None,Hypertension,3,average
+P385,33,Male,120/75,74,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Linda White,St. John's Clinic,Normal,Normal,None,1 week,None,Gastritis,5,good
+P386,39,Female,130/85,78,98.7,Diabetes Type 2,Metformin,6 weeks,Private,Dr. Sarah Brown,Maple Leaf Hospital,Elevated Glucose,Normal,None,4 weeks,Penicillin,Diabetes,4,amazing
+P387,25,Male,120/80,70,98.3,Allergy,Antihistamines,1 week,Private,Dr. Emily Green,St. Peter's Clinic,Normal,Normal,None,1 week,None,None,5,outstanding experiance
+P388,47,Female,135/85,79,99.1,Migraine,Triptans,2 weeks,Public,Dr. John Black,Health First Clinic,Normal,Normal,None,1 week,None,Migraine,4,good doctors
+P389,60,Male,150/95,88,99.3,Heart Disease,Statins,10 weeks,Private,Dr. Grace Lee,Central Care Center,Elevated Cholesterol,Cardiomegaly,Coronary Artery Bypass,8 weeks,None,Heart Disease,3,very good
+P390,41,Female,120/80,75,98.5,Anxiety,Alprazolam,4 weeks,Private,Dr. Rachel Clark,Sunset Hospital,Normal,Normal,None,3 weeks,None,Anxiety,5,very good
+P391,53,Male,140/90,84,99,Asthma,Inhalers,6 weeks,Public,Dr. William White,Sunshine Hospital,Normal,Normal,None,5 weeks,Dust,Asthma,4,excellant
+P392,66,Female,145/90,80,99.2,Diabetes Type 2,Insulin,8 weeks,Private,Dr. Jessica Brown,Heart Care Center,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,3,too good
+P393,59,Male,135/85,79,99.1,Hypertension,Enalapril,8 weeks,Public,Dr. Michael Black,Maple Leaf Hospital,Normal,Normal,None,6 weeks,None,Hypertension,4,amazing
+P394,41,Female,130/85,76,98.7,Thyroid Disorder,Levothyroxine,4 weeks,Private,Dr. James White,Elite Care Hospital,Normal,Normal,None,3 weeks,None,Thyroid Disorder,5,great
+P395,50,Male,138/92,80,99,Urinary Tract Infection,Ciprofloxacin,2 weeks,Public,Dr. Amy Green,City General,Positive for UTI,Normal,None,1 week,None,None,5,great
+P396,29,Female,125/80,74,98.6,Cold,Decongestants,1 week,Private,Dr. John Black,Sunshine Hospital,Normal,Normal,None,1 week,None,None,5,amazing
+P397,63,Male,160/100,90,99.5,Stroke,Antiplatelets,12 weeks,Public,Dr. Sarah Green,City Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,average
+P398,52,Female,130/85,78,98.8,Anemia,Ferrous Sulfate,6 weeks,Private,Dr. Jessica Brown,St. John's Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,very good
+P399,31,Male,120/80,75,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Amy White,Maple Leaf Hospital,Normal,Normal,None,1 week,None,Gastritis,5,excellant
+P400,49,Female,135/85,77,99,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Rachel Black,St. Peter's Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,too good
+P401,68,Male,145/95,85,99.3,Heart Disease,Diuretics,10 weeks,Private,Dr. Karen Green,Central Care Hospital,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,amazing
+P402,26,Female,120/75,70,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Thomas White,Sunshine Hospital,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P403,39,Male,130/85,75,98.5,Asthma,Inhalers,4 weeks,Private,Dr. William Green,St. Mary's Hospital,Normal,Normal,None,3 weeks,None,Asthma,4,great
+P404,47,Female,125/80,76,98.6,Back Pain,Muscle Relaxants,3 weeks,Public,Dr. Sarah Lee,Central Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,great
+P405,58,Male,150/95,85,99.4,Hypertension,Losartan,8 weeks,Private,Dr. John White,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P406,24,Female,118/76,71,98.2,Cold,Paracetamol,1 week,Private,Dr. Grace Brown,St. John's Clinic,Normal,Clear,None,1 week,None,None,5,average
+P407,62,Male,145/90,82,99.3,Diabetes Type 2,Metformin,8 weeks,Private,Dr. Alice Green,City Hospital,Elevated Glucose,Normal,None,6 weeks,Penicillin,Diabetes,3,good
+P408,38,Female,130/85,74,98.4,Thyroid Disorder,Levothyroxine,4 weeks,Public,Dr. Emily Black,Elite Care Hospital,Normal,Normal,None,3 weeks,None,Thyroid Disorder,5,very good
+P409,48,Male,135/90,76,98.8,Heart Disease,Statins,10 weeks,Private,Dr. Michael Green,Health First Clinic,Elevated Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P410,29,Female,120/75,72,98.5,Cold,Decongestants,1 week,Private,Dr. Jessica White,Sunset Clinic,Normal,Normal,None,1 week,None,None,5,excellant doctors
+P411,66,Male,140/95,83,99.2,Asthma,Inhalers,8 weeks,Private,Dr. Amy Green,Maple Leaf Hospital,Normal,Clear,None,6 weeks,Dust,Asthma,4,it is very good
+P412,51,Female,130/85,78,98.7,Anemia,Ferrous Sulfate,6 weeks,Private,Dr. Karen White,Sunshine Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,top notch doctors great experiance
+P413,37,Male,125/80,75,98.6,Back Pain,Muscle Relaxants,2 weeks,Public,Dr. Richard Green,City Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,very good
+P414,40,Female,130/90,79,99,Pneumonia,Amoxicillin,4 weeks,Private,Dr. Robert Brown,St. Mary's Clinic,Positive for Pneumonia,Normal,None,3 weeks,None,Pneumonia,4,amazing
+P415,28,Male,120/75,71,98.3,Cold,Paracetamol,1 week,Private,Dr. John Black,Green Valley Clinic,Normal,Normal,None,1 week,None,None,5,super
+P416,35,Female,125/82,74,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Emma Green,Central Care Center,Normal,Normal,None,1 week,None,Gastritis,5,great
+P417,60,Male,140/90,82,99.1,Hypertension,Enalapril,8 weeks,Public,Dr. Rachel Black,Sunshine Hospital,Normal,Normal,None,6 weeks,None,Hypertension,4,good
+P418,42,Female,135/88,80,98.7,Anxiety,Sertraline,4 weeks,Private,Dr. Jessica Lee,Health First Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,amazing
+P419,67,Male,155/92,85,99.3,Stroke,Anticoagulants,12 weeks,Public,Dr. William Clark,City General,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P420,25,Female,120/78,70,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Linda White,Elite Care Center,Normal,Normal,None,1 week,None,Skin Rash,5,great
+P421,58,Male,145/90,83,99,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Green,Central Care Hospital,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,good
+P422,45,Female,130/85,76,98.6,Migraine,Triptans,2 weeks,Public,Dr. Karen Smith,St. John's Clinic,Normal,Normal,None,1 week,None,Migraine,4,awesome
+P423,30,Male,120/80,72,98.4,Cold,Antihistamines,1 week,Private,Dr. John Brown,Sunset Clinic,Normal,Normal,None,1 week,None,None,5,super
+P424,64,Female,140/88,80,99,Diabetes Type 2,Insulin,8 weeks,Private,Dr. Emily White,Green Valley Hospital,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,3,normal
+P425,39,Male,125/78,74,98.5,Back Pain,Muscle Relaxants,3 weeks,Public,Dr. James Black,Sunshine Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,great
+P426,50,Female,130/85,78,98.7,Anemia,Ferrous Sulfate,6 weeks,Private,Dr. Rachel Lee,St. Peter's Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,very good
+P427,66,Male,150/95,86,99.4,Hypertension,Losartan,8 weeks,Public,Dr. Amy Clark,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,excellant
+P428,28,Female,120/75,72,98.2,Skin Rash,Hydrocortisone,1 week,Private,Dr. Robert Green,St. John's Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P429,54,Male,135/90,80,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Jessica Brown,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P430,62,Female,145/92,84,99.3,Heart Disease,Angiotensin Converting Enzyme inhibitors,10 weeks,Public,Dr. John Lee,Health First Clinic,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,amazing
+P431,31,Male,125/80,74,98.4,Cold,Paracetamol,1 week,Private,Dr. Sarah White,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,good
+P432,57,Female,140/88,79,99,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Rachel Green,St. Mary's Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,very good
+P433,36,Male,120/80,72,98.3,Gastritis,Antacids,2 weeks,Private,Dr. Linda Brown,Sunset Hospital,Normal,Normal,None,1 week,None,Gastritis,5,very good
+P434,48,Female,135/85,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. Emily Clark,Elite Care Center,Normal,Normal,None,1 week,None,Migraine,4,super
+P435,60,Male,150/95,85,99.2,Heart Disease,Diuretics,8 weeks,Private,Dr. William Black,Sunshine Hospital,High Cholesterol,Cardiomegaly,Coronary Artery Bypass,6 weeks,None,Heart Disease,3,normal
+P436,25,Female,120/78,70,98.4,Skin Rash,Hydrocortisone,1 week,Private,Dr. John Brown,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,too excellant
+P437,42,Male,130/85,76,98.6,Back Pain,Pain Relievers,3 weeks,Public,Dr. Linda Clark,Central Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,too good
+P438,58,Female,140/88,80,99.1,Diabetes Type 2,Metformin,6 weeks,Private,Dr. Sarah Green,St. Peter's Hospital,Elevated Glucose,Normal,None,4 weeks,Penicillin,Diabetes,4,super
+P439,39,Male,125/80,74,98.5,Anxiety,Sertraline,3 weeks,Private,Dr. Jessica Black,St. John's Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,very good
+P440,67,Female,145/92,84,99.3,Heart Disease,Statins,10 weeks,Public,Dr. John Smith,City General,High Cholesterol,Abnormal,Coronary Angioplasty,8 weeks,None,Heart Disease,3,normal
+P441,28,Male,120/78,72,98.3,Cold,Decongestants,1 week,Private,Dr. Rachel White,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,average facilities but great doctors
+P442,55,Female,140/88,79,99,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Linda Lee,St. Mary's Hospital,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,greta
+P443,37,Male,125/80,74,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Emily Brown,Sunset Hospital,Normal,Normal,None,1 week,None,Gastritis,5,great amazing
+P444,48,Female,135/85,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. Jessica White,Central Care Center,Normal,Normal,None,1 week,None,Migraine,4,super
+P445,66,Male,150/95,85,99.2,Hypertension,Losartan,8 weeks,Public,Dr. Amy Green,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal and to be improved
+P446,50,Female,130/86,78,98.7,Anemia,Ferrous Sulfate,6 weeks,Private,Dr. Sarah Clark,St. John's Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,super
+P447,63,Male,145/92,85,99.2,Heart Disease,Statins,10 weeks,Public,Dr. Linda Black,City General,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,average
+P448,29,Female,120/75,72,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Emily Green,Elite Care Center,Normal,Normal,None,1 week,None,Skin Rash,5,good
+P449,55,Male,140/90,82,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Jessica Lee,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,too good
+P450,61,Female,150/94,86,99.4,Hypertension,Losartan,8 weeks,Public,Dr. Rachel Brown,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P451,32,Male,120/78,73,98.4,Cold,Paracetamol,1 week,Private,Dr. John White,Maple Leaf Clinic,Normal,Normal,None,1 week,None,None,5,too good
+P452,44,Female,130/85,77,98.6,Back Pain,Muscle Relaxants,3 weeks,Public,Dr. Amy Smith,Sunshine Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,amazing
+P453,59,Male,140/88,81,99,Diabetes Type 2,Insulin,8 weeks,Private,Dr. William Green,St. Peter's Hospital,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,4,great
+P454,37,Female,125/80,75,98.5,Anxiety,Sertraline,3 weeks,Private,Dr. Karen Brown,St. Mary's Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,amazing
+P455,68,Male,150/96,87,99.5,Stroke,Anticoagulants,12 weeks,Public,Dr. Robert Clark,City General,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P456,26,Female,120/76,71,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Rachel White,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,very good
+P457,40,Male,130/85,75,98.6,Back Pain,Pain Relievers,3 weeks,Public,Dr. Linda Smith,Central Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,excellant
+P458,57,Female,140/89,81,99.2,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Emily Brown,St. John's Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,super
+P459,38,Male,125/80,73,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Jessica Green,Sunset Clinic,Normal,Normal,None,1 week,None,Gastritis,5,too good
+P460,45,Female,135/86,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. Sarah White,Central Care Hospital,Normal,Normal,None,1 week,None,Migraine,4,very good
+P461,62,Male,150/94,84,99.3,Heart Disease,Angiotensin Converting Enzyme inhibitors,10 weeks,Public,Dr. John Black,Health First Clinic,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,super
+P462,34,Female,120/76,73,98.4,Cold,Decongestants,1 week,Private,Dr. Linda Brown,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,super
+P463,56,Male,140/90,80,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Rachel Lee,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P464,60,Female,145/92,84,99.3,Hypertension,Losartan,8 weeks,Public,Dr. Karen Green,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P465,31,Male,120/78,74,98.4,Cold,Antihistamines,1 week,Private,Dr. John Smith,Sunshine Hospital,Normal,Normal,None,1 week,None,None,5,good
+P466,51,Female,135/86,78,98.7,Anemia,Ferrous Sulfate,6 weeks,Private,Dr. Emily Clark,Health First Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,very good
+P467,63,Male,145/92,85,99.2,Heart Disease,Statins,10 weeks,Public,Dr. Linda Black,City General,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,average
+P468,30,Female,120/75,72,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Emily White,Elite Care Center,Normal,Normal,None,1 week,None,Skin Rash,5,very good
+P469,54,Male,140/90,82,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Sarah Lee,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P470,61,Female,150/94,86,99.4,Hypertension,Losartan,8 weeks,Public,Dr. Rachel Brown,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,below average
+P471,33,Male,120/78,73,98.4,Cold,Paracetamol,1 week,Private,Dr. John White,Maple Leaf Clinic,Normal,Normal,None,1 week,None,None,5,super
+P472,46,Female,130/85,77,98.6,Back Pain,Muscle Relaxants,3 weeks,Public,Dr. Amy Smith,Sunshine Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,great doctors
+P473,58,Male,140/88,81,99,Diabetes Type 2,Insulin,8 weeks,Private,Dr. William Green,St. Peter's Hospital,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,4,great experiance
+P474,39,Female,125/80,75,98.5,Anxiety,Sertraline,3 weeks,Private,Dr. Karen Brown,St. Mary's Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,good facilities
+P475,70,Male,150/96,87,99.5,Stroke,Anticoagulants,12 weeks,Public,Dr. Robert Clark,City General,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,very average
+P476,27,Female,120/76,71,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Rachel White,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,very good
+P477,41,Male,130/85,75,98.6,Back Pain,Pain Relievers,3 weeks,Public,Dr. Linda Smith,Central Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,super
+P478,58,Female,140/89,81,99.2,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Emily Brown,St. John's Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,amazing
+P479,39,Male,125/80,73,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Jessica Green,Sunset Clinic,Normal,Normal,None,1 week,None,Gastritis,5,too good
+P480,46,Female,135/86,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. Sarah White,Central Care Hospital,Normal,Normal,None,1 week,None,Migraine,4,very good
+P481,63,Male,150/94,84,99.3,Heart Disease,Angiotensin Converting Enzyme inhibitors,10 weeks,Public,Dr. John Black,Health First Clinic,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,too good
+P482,35,Female,120/76,73,98.4,Cold,Decongestants,1 week,Private,Dr. Linda Brown,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,too good
+P483,57,Male,140/90,80,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Rachel Lee,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P484,61,Female,145/92,84,99.3,Hypertension,Losartan,8 weeks,Public,Dr. Karen Green,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P485,31,Male,120/78,74,98.4,Cold,Antihistamines,1 week,Private,Dr. John Smith,Sunshine Hospital,Normal,Normal,None,1 week,None,None,5,super
+P486,52,Female,135/86,78,98.7,Anemia,Ferrous Sulfate,6 weeks,Private,Dr. Emily Clark,Health First Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,super
+P487,65,Male,145/92,85,99.2,Heart Disease,Statins,10 weeks,Public,Dr. Linda Black,City General,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,good
+P488,31,Female,120/75,72,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Emily White,Elite Care Center,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P489,55,Male,140/90,82,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Sarah Lee,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P490,62,Female,150/94,86,99.4,Hypertension,Losartan,8 weeks,Public,Dr. Rachel Brown,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P491,34,Male,120/78,73,98.4,Cold,Paracetamol,1 week,Private,Dr. John White,Maple Leaf Clinic,Normal,Normal,None,1 week,None,None,5,excellant
+P492,47,Female,130/85,77,98.6,Back Pain,Muscle Relaxants,3 weeks,Public,Dr. Amy Smith,Sunshine Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,very good
+P493,59,Male,140/88,81,99,Diabetes Type 2,Insulin,8 weeks,Private,Dr. William Green,St. Peter's Hospital,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,4,amazing
+P494,40,Female,125/80,75,98.5,Anxiety,Sertraline,3 weeks,Private,Dr. Karen Brown,St. Mary's Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,great
+P495,71,Male,150/96,87,99.5,Stroke,Anticoagulants,12 weeks,Public,Dr. Robert Clark,City General,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,too good
+P496,28,Female,120/76,71,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Rachel White,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,amazing
+P497,42,Male,130/85,75,98.6,Back Pain,Pain Relievers,3 weeks,Public,Dr. Linda Smith,Central Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,amazing
+P498,59,Female,140/89,81,99.2,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Emily Brown,St. John's Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,excellant
+P499,40,Male,125/80,73,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Jessica Green,Sunset Clinic,Normal,Normal,None,1 week,None,Gastritis,5,excellant
+P500,47,Female,135/86,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. Sarah White,Central Care Hospital,Normal,Normal,None,1 week,None,Migraine,4,excellant
+P501,64,Male,150/94,84,99.3,Heart Disease,Angiotensin Converting Enzyme inhibitors,10 weeks,Public,Dr. John Black,Health First Clinic,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,good
+P502,36,Female,120/76,73,98.4,Cold,Decongestants,1 week,Private,Dr. Linda Brown,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,very good
+P503,58,Male,140/90,80,99.1,Asthma,Inhalers,6 weeks,Private,Dr. Rachel Lee,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,good
+P504,62,Female,145/92,84,99.3,Hypertension,Losartan,8 weeks,Public,Dr. Karen Green,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,average
+P505,32,Male,120/78,74,98.4,Cold,Antihistamines,1 week,Private,Dr. John Smith,Sunshine Hospital,Normal,Normal,None,1 week,None,None,5,excellant
+P506,36,Female,120/78,72,98.3,Allergy,Antihistamines,1 week,Private,Dr. Emma Clark,Maple Leaf Hospital,Normal,Normal,None,1 week,None,Allergy,5,excellant
+P507,50,Male,140/88,80,99,Hypertension,Metoprolol,6 weeks,Public,Dr. Rachel Black,City General,Normal,Normal,None,5 weeks,None,Hypertension,4,amazing
+P508,41,Female,130/85,75,98.6,Anxiety,Buspirone,4 weeks,Private,Dr. Linda Green,Health First Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,great
+P509,70,Male,155/94,88,99.5,Stroke,Clopidogrel,12 weeks,Public,Dr. John Smith,Sunshine Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P510,29,Female,120/78,70,98.2,Skin Rash,Topical Steroid,1 week,Private,Dr. Jessica White,Elite Care Center,Normal,Normal,None,1 week,None,Skin Rash,5,good
+P511,65,Male,145/92,84,99.1,Heart Disease,Atorvastatin,10 weeks,Public,Dr. William Clark,City General,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,good
+P512,47,Female,130/82,77,98.7,Migraine,Sumatriptan,2 weeks,Public,Dr. Amy Brown,St. John's Clinic,Normal,Normal,None,1 week,None,Migraine,4,amazing
+P513,33,Male,125/80,74,98.4,Cold,Antihistamines,1 week,Private,Dr. Emily Green,Sunset Clinic,Normal,Normal,None,1 week,None,None,5,great
+P514,67,Female,140/85,80,99,Diabetes Type 2,Insulin,8 weeks,Private,Dr. Sarah White,Green Valley Hospital,High Blood Sugar,Normal,None,6 weeks,Penicillin,Diabetes,3,good
+P515,38,Male,125/78,74,98.5,Back Pain,Ibuprofen,3 weeks,Public,Dr. Robert Black,Sunshine Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,amazing
+P516,53,Female,130/85,78,98.7,Anemia,Iron Supplements,6 weeks,Private,Dr. Rachel Green,St. Peter's Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,amazing
+P517,64,Male,150/95,85,99.4,Hypertension,Amlodipine,8 weeks,Public,Dr. Linda Lee,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P518,30,Female,120/75,72,98.3,Skin Rash,Calamine Lotion,1 week,Private,Dr. Emily Clark,St. John's Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,super
+P519,56,Male,135/90,80,99.1,Asthma,Albuterol,6 weeks,Private,Dr. Sarah Brown,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P520,61,Female,145/92,83,99.3,Heart Disease,Lisinopril,10 weeks,Public,Dr. William Lee,Health First Clinic,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,good
+P521,32,Male,125/80,74,98.4,Cold,Paracetamol,1 week,Private,Dr. Linda White,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,great
+P522,60,Female,140/88,79,99,Pneumonia,Clarithromycin,4 weeks,Public,Dr. Jessica Green,St. Mary's Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,excellant
+P523,35,Male,120/80,72,98.3,Gastritis,Antacids,2 weeks,Private,Dr. Rachel White,Sunset Hospital,Normal,Normal,None,1 week,None,Gastritis,5,super
+P524,49,Female,135/85,78,98.7,Migraine,Naproxen,2 weeks,Public,Dr. Linda Clark,Elite Care Center,Normal,Normal,None,1 week,None,Migraine,4,amazing
+P525,70,Male,150/95,85,99.2,Heart Disease,Spironolactone,8 weeks,Private,Dr. John Black,Sunshine Hospital,High Cholesterol,Cardiomegaly,Coronary Artery Bypass,6 weeks,None,Heart Disease,3,average
+P526,28,Female,120/78,70,98.4,Skin Rash,Hydrocortisone,1 week,Private,Dr. Amy Green,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P527,45,Male,130/85,76,98.6,Back Pain,Muscle Relaxants,3 weeks,Public,Dr. Jessica Brown,Central Care Center,Normal,Normal,None,2 weeks,None,Back Pain,5,excellant
+P528,57,Female,140/88,80,99.1,Diabetes Type 2,Metformin,6 weeks,Private,Dr. William White,St. Peter's Hospital,Elevated Glucose,Normal,None,4 weeks,Penicillin,Diabetes,4,great
+P529,40,Male,125/80,74,98.5,Anxiety,Escitalopram,3 weeks,Private,Dr. Sarah Black,St. John's Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,super
+P530,69,Female,145/92,84,99.3,Heart Disease,Statins,10 weeks,Public,Dr. Emily Brown,City General,High Cholesterol,Abnormal,Coronary Angioplasty,8 weeks,None,Heart Disease,3,good
+P531,29,Male,120/78,72,98.3,Cold,Decongestants,1 week,Private,Dr. Linda Smith,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,good
+P532,54,Female,140/88,79,99,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Rachel Clark,St. Mary's Hospital,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,super
+P533,36,Male,125/80,74,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Jessica Lee,Sunset Hospital,Normal,Normal,None,1 week,None,Gastritis,5,super
+P534,47,Female,135/85,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. William Green,Central Care Center,Normal,Normal,None,1 week,None,Migraine,4,super
+P535,65,Male,150/95,85,99.2,Hypertension,Losartan,8 weeks,Public,Dr. Rachel White,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,average
+P536,46,Female,128/84,76,98.5,Anxiety,Alprazolam,4 weeks,Private,Dr. Sarah Clark,Health First Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,super
+P537,63,Male,150/94,85,99.2,Hypertension,Valsartan,8 weeks,Public,Dr. Rachel Smith,Sunset Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P538,25,Female,120/75,70,98.2,Common Cold,Paracetamol,1 week,Private,Dr. Linda Brown,Green Valley Clinic,Normal,Normal,None,1 week,None,None,5,super
+P539,58,Male,142/90,82,99.1,Asthma,Inhalers,6 weeks,Public,Dr. William Black,St. Peter's Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P540,38,Female,130/85,78,98.6,Back Pain,Ibuprofen,3 weeks,Private,Dr. Emily Green,City General,Normal,Normal,None,2 weeks,None,Back Pain,5,super
+P541,70,Male,155/95,88,99.3,Heart Disease,Statins,10 weeks,Public,Dr. Jessica Lee,Sunshine Hospital,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,great
+P542,45,Female,130/82,76,98.4,Migraine,Sumatriptan,2 weeks,Private,Dr. Rachel White,Elite Care Center,Normal,Normal,None,1 week,None,Migraine,4,great
+P543,60,Male,145/90,84,99.5,Pneumonia,Clarithromycin,4 weeks,Public,Dr. Linda Green,Central Care Hospital,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,great
+P544,33,Female,120/76,72,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Sarah Black,Maple Leaf Hospital,Normal,Normal,None,1 week,None,Gastritis,5,amazing
+P545,48,Male,140/85,80,99,Hypertension,Losartan,6 weeks,Public,Dr. William Clark,City General,Normal,Abnormal,None,5 weeks,None,Hypertension,3,normal
+P546,29,Female,125/80,74,98.3,Allergy,Antihistamines,1 week,Private,Dr. Linda Brown,Sunset Hospital,Normal,Normal,None,1 week,None,Allergy,5,super
+P547,65,Male,150/92,84,99.3,Diabetes Type 2,Metformin,8 weeks,Public,Dr. John Black,Health First Clinic,High Blood Sugar,Normal,None,6 weeks,None,Diabetes,3,super
+P548,41,Female,135/85,78,98.6,Anemia,Iron Supplements,6 weeks,Private,Dr. Emily White,Sunshine Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,super
+P549,59,Male,140/88,80,99.1,Hypertension,Metoprolol,6 weeks,Public,Dr. Rachel Green,City General,Normal,Normal,None,5 weeks,None,Hypertension,4,super
+P550,37,Female,125/78,73,98.4,Cold,Decongestants,1 week,Private,Dr. Sarah White,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,great
+P551,52,Male,140/90,82,99,Asthma,Inhalers,6 weeks,Public,Dr. Linda Lee,Elite Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,good
+P552,60,Female,150/94,85,99.3,Heart Disease,Atorvastatin,10 weeks,Private,Dr. Jessica Clark,Sunshine Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,normal
+P553,42,Male,130/82,76,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Amy Black,Green Valley Clinic,Normal,Normal,None,1 week,None,Gastritis,5,super
+P554,55,Female,140/88,79,99,Pneumonia,Amoxicillin,4 weeks,Public,Dr. Linda Smith,City General,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,excellant
+P555,34,Male,125/78,74,98.5,Cold,Paracetamol,1 week,Private,Dr. William White,Elite Care Center,Normal,Normal,None,1 week,None,None,5,great
+P556,47,Female,135/85,78,98.7,Migraine,Naproxen,2 weeks,Public,Dr. Rachel Black,Sunset Hospital,Normal,Normal,None,1 week,None,Migraine,4,amazing
+P557,68,Male,150/95,84,99.3,Hypertension,Amlodipine,8 weeks,Public,Dr. Sarah Green,Central Care Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,super
+P558,40,Female,120/78,72,98.3,Skin Rash,Topical Steroid,1 week,Private,Dr. Jessica White,Green Valley Hospital,Normal,Normal,None,1 week,None,Skin Rash,5,super
+P559,54,Male,140/88,80,99.1,Asthma,Inhalers,6 weeks,Public,Dr. Emily Lee,St. Mary's Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great
+P560,66,Female,145/92,83,99.2,Heart Disease,Statins,10 weeks,Public,Dr. John Green,Sunshine Clinic,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,amazing
+P561,30,Male,125/80,74,98.4,Cold,Antihistamines,1 week,Private,Dr. Sarah Brown,Maple Leaf Clinic,Normal,Normal,None,1 week,None,None,5,amazing
+P562,53,Female,140/88,78,99,Diabetes Type 2,Metformin,6 weeks,Public,Dr. Linda White,Sunset Hospital,Elevated Glucose,Normal,None,4 weeks,None,Diabetes,4,excellant
+P563,36,Male,125/80,74,98.5,Back Pain,Ibuprofen,3 weeks,Private,Dr. William Black,City General,Normal,Normal,None,2 weeks,None,Back Pain,5,excellant
+P564,70,Female,155/94,88,99.5,Stroke,Clopidogrel,12 weeks,Public,Dr. Rachel White,St. John's Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P565,28,Male,120/78,72,98.3,Skin Rash,Calamine Lotion,1 week,Private,Dr. Amy Clark,Sunset Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,too good
+P566,49,Female,135/85,78,98.7,Migraine,Ibuprofen,2 weeks,Public,Dr. Sarah Green,Elite Care Center,Normal,Normal,None,1 week,None,Migraine,4,excellant
+P567,65,Male,150/92,85,99.3,Heart Disease,Atorvastatin,10 weeks,Public,Dr. Emily Black,St. Peter's Hospital,High Cholesterol,Cardiomegaly,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P568,33,Female,120/76,74,98.4,Cold,Antihistamines,1 week,Private,Dr. John White,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,amazing
+P569,57,Male,145/90,82,99.2,Diabetes Type 2,Insulin,8 weeks,Private,Dr. Jessica Green,Central Care Center,High Blood Sugar,Normal,None,6 weeks,None,Diabetes,3,good
+P570,41,Female,130/85,75,98.6,Anxiety,Buspirone,4 weeks,Private,Dr. Linda Clark,Sunshine Hospital,Normal,Normal,None,3 weeks,None,Anxiety,5,great
+P571,52,Male,140/88,79,99.1,Hypertension,Losartan,6 weeks,Public,Dr. Amy Brown,City General,Normal,Normal,None,5 weeks,None,Hypertension,4,good
+P572,36,Female,120/78,73,98.4,Skin Rash,Hydrocortisone,1 week,Private,Dr. Emily White,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,super
+P573,62,Male,150/95,84,99.3,Heart Disease,Statins,10 weeks,Public,Dr. William Lee,Elite Care Center,High Cholesterol,Cardiomegaly,Coronary Angioplasty,8 weeks,None,Heart Disease,3,normal
+P574,47,Female,130/82,76,98.4,Gastritis,Antacids,2 weeks,Private,Dr. Sarah Green,St. Mary's Hospital,Normal,Normal,None,1 week,None,Gastritis,5,excellant
+P575,68,Male,145/90,84,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Rachel Smith,Sunshine Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P576,39,Female,125/80,74,98.3,Back Pain,Ibuprofen,3 weeks,Private,Dr. Emily Clark,Sunset Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,too good
+P577,70,Male,155/95,88,99.4,Stroke,Clopidogrel,12 weeks,Public,Dr. Linda White,Central Care Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P578,29,Female,120/75,72,98.2,Skin Rash,Topical Steroid,1 week,Private,Dr. Amy Green,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,very good
+P579,61,Male,145/92,84,99.3,Hypertension,Metoprolol,8 weeks,Public,Dr. Jessica White,City General,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P580,38,Female,130/84,77,98.6,Anemia,Iron Supplements,6 weeks,Private,Dr. William Brown,Elite Care Center,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,great
+P581,50,Male,140/88,80,99,Asthma,Inhalers,6 weeks,Public,Dr. Rachel Lee,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P582,35,Female,125/80,74,98.3,Common Cold,Paracetamol,1 week,Private,Dr. Sarah Black,Maple Leaf Hospital,Normal,Normal,None,1 week,None,None,5,super
+P583,44,Male,130/85,78,98.6,Anxiety,Escitalopram,4 weeks,Private,Dr. Emily Brown,Sunset Hospital,Normal,Normal,None,3 weeks,None,Anxiety,5,too good
+P584,53,Female,140/88,78,99.1,Hypertension,Amlodipine,6 weeks,Public,Dr. William Green,City General,Normal,Normal,None,5 weeks,None,Hypertension,4,amazing
+P585,31,Male,120/76,74,98.4,Cold,Decongestants,1 week,Private,Dr. Linda Green,Green Valley Clinic,Normal,Normal,None,1 week,None,None,5,excellant
+P586,59,Female,145/92,83,99.3,Heart Disease,Spironolactone,10 weeks,Public,Dr. Amy Clark,Central Care Center,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,super
+P587,40,Male,130/82,76,98.5,Migraine,Naproxen,2 weeks,Private,Dr. John White,Elite Care Hospital,Normal,Normal,None,1 week,None,Migraine,4,super
+P588,64,Female,150/94,85,99.2,Pneumonia,Clarithromycin,4 weeks,Public,Dr. Sarah White,City General,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,super
+P589,48,Male,125/80,74,98.3,Gastritis,Antacids,2 weeks,Private,Dr. Jessica Smith,St. Peter's Hospital,Normal,Normal,None,1 week,None,Gastritis,5,excellant
+P590,56,Female,140/85,78,98.7,Diabetes Type 2,Metformin,6 weeks,Public,Dr. Rachel Green,Central Care Clinic,Elevated Glucose,Normal,None,4 weeks,None,Diabetes,4,outstanding
+P591,29,Male,120/78,72,98.4,Skin Rash,Hydrocortisone,1 week,Private,Dr. William Brown,Green Valley Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,great
+P592,41,Female,135/85,76,98.6,Anxiety,Alprazolam,4 weeks,Private,Dr. Linda Smith,Sunshine Clinic,Normal,Normal,None,3 weeks,None,Anxiety,5,amazing
+P593,58,Male,140/88,80,99.1,Hypertension,Losartan,6 weeks,Public,Dr. Sarah Lee,City General,Normal,Abnormal,None,5 weeks,None,Hypertension,4,very good
+P594,36,Female,120/78,74,98.3,Allergy,Antihistamines,1 week,Private,Dr. Rachel Brown,Elite Care Center,Normal,Normal,None,1 week,None,Allergy,5,excellant
+P595,70,Male,150/92,85,99.3,Heart Disease,Statins,10 weeks,Public,Dr. John Clark,Sunshine Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,good
+P596,38,Female,130/85,78,98.6,Gastritis,Antacids,2 weeks,Private,Dr. William Green,Green Valley Clinic,Normal,Normal,None,1 week,None,Gastritis,5,amazing
+P597,44,Male,140/90,82,99,Asthma,Albuterol,6 weeks,Public,Dr. Linda White,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P598,33,Female,125/80,74,98.4,Back Pain,Muscle Relaxants,3 weeks,Private,Dr. Jessica Green,Central Care Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,excellant
+P599,59,Male,145/92,83,99.2,Heart Disease,Statins,10 weeks,Public,Dr. Rachel Lee,City General,High Cholesterol,Abnormal,None,8 weeks,None,Heart Disease,3,good
+P600,30,Female,120/75,72,98.3,Skin Rash,Calamine Lotion,1 week,Private,Dr. Amy Black,Green Valley Hospital,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P601,53,Male,140/85,78,99.1,Hypertension,Metoprolol,6 weeks,Public,Dr. Sarah Smith,Sunset Hospital,Normal,Normal,None,5 weeks,None,Hypertension,4,good
+P602,36,Female,125/80,74,98.4,Cold,Decongestants,1 week,Private,Dr. William Clark,St. John's Clinic,Normal,Normal,None,1 week,None,None,5,amazing
+P603,70,Male,155/95,88,99.5,Stroke,Clopidogrel,12 weeks,Public,Dr. Jessica Brown,Health First Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P604,47,Female,135/85,78,98.7,Anemia,Iron Supplements,6 weeks,Private,Dr. Rachel Green,Sunshine Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,amazing
+P605,62,Male,150/94,85,99.2,Hypertension,Amlodipine,8 weeks,Public,Dr. Linda White,Elite Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P606,54,Female,140/90,82,99,Arthritis,Ibuprofen,6 weeks,Public,Dr. William Lee,City General Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,normal
+P607,38,Male,130/84,76,98.6,Gastritis,Antacids,2 weeks,Private,Dr. Sarah Green,Sunset Hospital,Normal,Normal,None,1 week,None,Gastritis,5,great
+P608,45,Female,135/85,78,98.8,Hypertension,Amlodipine,6 weeks,Public,Dr. Rachel Clark,Central Care Hospital,Normal,Normal,None,5 weeks,None,Hypertension,4,super
+P609,60,Male,150/92,85,99.4,Heart Disease,Statins,10 weeks,Public,Dr. Jessica White,Green Valley Clinic,High Cholesterol,Abnormal,Coronary Bypass,8 weeks,None,Heart Disease,3,good
+P610,27,Female,120/76,74,98.4,Allergy,Antihistamines,1 week,Private,Dr. Emily Black,Elite Care Center,Normal,Normal,None,1 week,None,Allergy,5,amazing
+P611,48,Male,140/88,79,99.1,Diabetes Type 2,Metformin,8 weeks,Public,Dr. Linda Green,City General Clinic,High Glucose,Normal,None,6 weeks,None,Diabetes,3,super
+P612,32,Female,125/80,74,98.3,Cold,Decongestants,1 week,Private,Dr. William Brown,St. Mary's Hospital,Normal,Normal,None,1 week,None,None,5,great
+P613,67,Male,145/92,84,99.3,Pneumonia,Azithromycin,4 weeks,Public,Dr. Sarah White,Elite Care Center,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,normal
+P614,36,Female,120/78,73,98.5,Migraine,Sumatriptan,2 weeks,Private,Dr. Amy Clark,Maple Leaf Clinic,Normal,Normal,None,1 week,None,Migraine,4,good
+P615,51,Male,140/88,80,99,Asthma,Inhalers,6 weeks,Public,Dr. Jessica Green,Sunset Hospital,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P616,40,Female,130/82,76,98.6,Anemia,Iron Supplements,6 weeks,Private,Dr. Rachel Smith,Green Valley Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,amazing
+P617,63,Male,150/95,87,99.2,Stroke,Aspirin,12 weeks,Public,Dr. Emily Brown,Central Care Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P618,29,Female,120/76,74,98.4,Skin Rash,Calamine Lotion,1 week,Private,Dr. John White,Health First Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P619,55,Male,140/85,78,99.1,Hypertension,Losartan,6 weeks,Public,Dr. Sarah Clark,Sunshine Hospital,Normal,Normal,None,5 weeks,None,Hypertension,4,super
+P620,39,Female,125/80,74,98.4,Gastritis,Antacids,2 weeks,Private,Dr. William Green,Central Care Center,Normal,Normal,None,1 week,None,Gastritis,5,super
+P621,41,Male,135/85,78,98.7,Back Pain,Muscle Relaxants,3 weeks,Private,Dr. Amy Green,St. Peter's Clinic,Normal,Normal,None,2 weeks,None,Back Pain,5,amazing
+P622,49,Female,140/88,80,99,Asthma,Albuterol,6 weeks,Public,Dr. Emily White,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P623,68,Male,150/94,85,99.4,Heart Disease,Statins,10 weeks,Public,Dr. Linda Black,City General Hospital,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P624,34,Female,120/78,73,98.3,Cold,Antihistamines,1 week,Private,Dr. Sarah Green,Green Valley Clinic,Normal,Normal,None,1 week,None,None,5,great
+P625,57,Male,145/92,84,99.2,Hypertension,Metoprolol,8 weeks,Public,Dr. Jessica Smith,Sunshine Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P626,43,Female,130/84,76,98.6,Gastritis,Proton Pump Inhibitors,2 weeks,Private,Dr. William Brown,Elite Care Clinic,Normal,Normal,None,1 week,None,Gastritis,5,excellant
+P627,51,Male,140/85,79,99.1,Arthritis,Diclofenac,6 weeks,Public,Dr. John Green,Central Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P628,37,Female,125/80,74,98.5,Common Cold,Paracetamol,1 week,Private,Dr. Emily Clark,St. Mary's Clinic,Normal,Normal,None,1 week,None,None,5,good
+P629,70,Male,155/95,88,99.5,Stroke,Clopidogrel,12 weeks,Public,Dr. Rachel Lee,Health First Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,average
+P630,44,Female,140/88,78,99,Anemia,Folic Acid,6 weeks,Private,Dr. Sarah White,Green Valley Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,amazing
+P631,65,Male,150/92,85,99.3,Hypertension,Amlodipine,8 weeks,Public,Dr. William Black,Elite Care Center,Normal,Normal,None,6 weeks,None,Hypertension,3,average
+P632,29,Female,120/76,73,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. John Clark,Sunshine Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,excellant
+P633,46,Male,140/85,79,99.1,Gastritis,Antacids,2 weeks,Private,Dr. Jessica Brown,City General Hospital,Normal,Normal,None,1 week,None,Gastritis,5,amazing
+P634,53,Female,145/90,82,99.2,Pneumonia,Levofloxacin,4 weeks,Public,Dr. Amy Green,Elite Care Clinic,Positive for Pneumonia,Abnormal,None,3 weeks,None,Pneumonia,4,too good
+P635,33,Male,125/80,74,98.4,Back Pain,Ibuprofen,3 weeks,Private,Dr. Linda Green,Central Care Hospital,Normal,Normal,None,2 weeks,None,Back Pain,5,super
+P636,60,Female,145/92,83,99.3,Heart Disease,Statins,10 weeks,Public,Dr. Rachel Smith,Sunshine Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,good
+P637,40,Male,130/84,76,98.5,Asthma,Inhalers,6 weeks,Public,Dr. Sarah Clark,City General Hospital,Normal,Clear,None,5 weeks,Pollen,Asthma,4,very good
+P638,28,Female,120/76,74,98.3,Cold,Decongestants,1 week,Private,Dr. Emily White,Green Valley Clinic,Normal,Normal,None,1 week,None,None,5,super
+P639,59,Male,140/85,79,99.1,Arthritis,Ibuprofen,6 weeks,Public,Dr. John Lee,Elite Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,amazing
+P640,31,Female,125/80,74,98.4,Skin Rash,Topical Steroids,1 week,Private,Dr. William Green,St. Mary's Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,very amazing
+P641,42,Male,140/88,80,99,Hypertension,Losartan,6 weeks,Public,Dr. Sarah White,Health First Clinic,Normal,Normal,None,5 weeks,None,Hypertension,4,very good
+P642,47,Female,130/84,76,98.5,Anemia,Iron Supplements,6 weeks,Private,Dr. Linda Black,City General Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,great
+P643,62,Male,145/92,84,99.3,Stroke,Clopidogrel,12 weeks,Public,Dr. Jessica Green,Central Care Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P644,35,Female,120/76,74,98.4,Allergy,Antihistamines,1 week,Private,Dr. Rachel Smith,Sunset Hospital,Normal,Normal,None,1 week,None,Allergy,5,above average
+P645,50,Male,140/85,78,99,Asthma,Albuterol,6 weeks,Public,Dr. Amy Clark,City General Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,above average
+P646,37,Female,125/80,74,98.4,Cold,Antihistamines,1 week,Private,Dr. William Brown,Elite Care Hospital,Normal,Normal,None,1 week,None,None,5,superb
+P647,66,Male,150/94,85,99.3,Hypertension,Amlodipine,8 weeks,Public,Dr. Emily Green,Central Care Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P648,30,Female,120/76,73,98.3,Gastritis,Antacids,2 weeks,Private,Dr. John White,St. Mary's Clinic,Normal,Normal,None,1 week,None,Gastritis,5,excellant
+P649,58,Male,145/92,83,99.2,Heart Disease,Statins,10 weeks,Public,Dr. Sarah Lee,Health First Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,great
+P650,41,Female,130/84,76,98.6,Anemia,Folic Acid,6 weeks,Private,Dr. Rachel White,Elite Care Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,super
+P651,45,Female,135/85,77,98.7,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. John Brown,Central Care Clinic,Normal,Normal,None,3 weeks,None,Back Pain,5,amazing
+P652,38,Male,140/90,80,99,Heart Disease,Statins,8 weeks,Public,Dr. Emily Black,Elite Care Hospital,High Cholesterol,Abnormal,Bypass Surgery,6 weeks,None,Heart Disease,3,great
+P653,29,Female,125/80,74,98.5,Cold,Decongestants,1 week,Private,Dr. William White,Green Valley Hospital,Normal,Normal,None,1 week,None,None,5,amazing
+P654,41,Male,130/80,76,98.6,Asthma,Inhalers,5 weeks,Public,Dr. Linda Green,City General Hospital,Normal,Clear,None,4 weeks,Dust,Asthma,4,super
+P655,56,Female,145/88,82,99.2,Gastritis,Proton Pump Inhibitors,3 weeks,Private,Dr. Rachel Brown,Sunshine Clinic,Normal,Normal,None,2 weeks,None,Gastritis,5,great
+P656,60,Male,155/95,85,99.1,Hypertension,Losartan,8 weeks,Public,Dr. Sarah Lee,Central Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P657,47,Female,135/85,78,99.3,Stroke,Aspirin,12 weeks,Private,Dr. John Black,Health First Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P658,34,Male,120/75,73,98.4,Back Pain,Ibuprofen,3 weeks,Private,Dr. Emily White,Sunset Clinic,Normal,Normal,None,2 weeks,None,Back Pain,5,good
+P659,49,Female,140/85,79,98.9,Asthma,Albuterol,6 weeks,Public,Dr. Amy Brown,Central Care Hospital,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P660,25,Male,130/80,75,98.6,Anemia,Iron Supplements,6 weeks,Private,Dr. Sarah White,Green Valley Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,very good
+P661,58,Female,150/90,83,99.3,Heart Disease,Statins,10 weeks,Public,Dr. William Green,Health First Center,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,average
+P662,44,Male,135/85,77,99,Cold,Antihistamines,1 week,Private,Dr. Rachel Black,St. Peter's Clinic,Normal,Normal,None,1 week,None,None,5,good
+P663,51,Female,145/95,82,99.1,Hypertension,Amlodipine,6 weeks,Public,Dr. John White,City General Hospital,Normal,Abnormal,None,5 weeks,None,Hypertension,3,above average
+P664,39,Male,120/80,74,98.3,Skin Rash,Hydrocortisone,1 week,Private,Dr. Jessica Green,Elite Care Center,Normal,Normal,None,1 week,None,Skin Rash,5,good
+P665,62,Female,150/92,85,99.2,Back Pain,Muscle Relaxants,6 weeks,Public,Dr. Linda Brown,Health First Clinic,Normal,Normal,None,5 weeks,None,Back Pain,4,amazing
+P666,28,Male,135/88,79,98.6,Asthma,Albuterol,5 weeks,Private,Dr. Sarah Black,Green Valley Hospital,Normal,Clear,None,4 weeks,Dust,Asthma,4,great
+P667,46,Female,140/85,77,99.3,Heart Disease,Statins,10 weeks,Public,Dr. John Green,Sunshine Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,good
+P668,55,Male,145/90,82,99.1,Stroke,Aspirin,12 weeks,Private,Dr. Amy White,City General Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,great
+P669,31,Female,125/80,74,98.4,Gastritis,Antacids,2 weeks,Private,Dr. William Smith,Elite Care Clinic,Normal,Normal,None,1 week,None,Gastritis,5,amazing
+P670,36,Male,130/80,75,98.7,Anemia,Folic Acid,6 weeks,Public,Dr. Linda Clark,Sunset Hospital,Low Hemoglobin,Normal,None,5 weeks,None,Anemia,5,amazing
+P671,52,Female,145/90,83,99.2,Hypertension,Metoprolol,8 weeks,Private,Dr. Jessica Brown,Central Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P672,40,Male,120/76,73,98.5,Asthma,Inhalers,5 weeks,Public,Dr. Emily White,Green Valley Clinic,Normal,Clear,None,4 weeks,Pollen,Asthma,4,good
+P673,34,Female,130/80,75,98.7,Skin Rash,Topical Steroids,1 week,Private,Dr. Rachel Green,Sunshine Clinic,Normal,Normal,None,1 week,None,Skin Rash,5,very good
+P674,45,Male,140/88,80,99,Back Pain,Ibuprofen,4 weeks,Private,Dr. John Lee,Health First Center,Normal,Normal,None,3 weeks,None,Back Pain,5,very good
+P675,59,Female,150/92,83,99.2,Heart Disease,Statins,10 weeks,Public,Dr. William Brown,Elite Care Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,good
+P676,48,Male,135/85,77,99.3,Gastritis,Proton Pump Inhibitors,3 weeks,Private,Dr. Jessica White,City General Hospital,Normal,Normal,None,2 weeks,None,Gastritis,5,good
+P677,33,Female,125/80,74,98.6,Asthma,Albuterol,6 weeks,Private,Dr. Linda Green,Central Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P678,41,Male,140/85,79,99.2,Stroke,Clopidogrel,12 weeks,Public,Dr. Emily Brown,Sunshine Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,poor
+P679,35,Female,130/84,76,98.7,Cold,Antihistamines,1 week,Private,Dr. John Green,Health First Hospital,Normal,Normal,None,1 week,None,None,5,good
+P680,50,Male,140/90,82,99.3,Anemia,Iron Supplements,6 weeks,Private,Dr. William White,St. Mary's Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,excellant
+P681,60,Female,145/92,84,99.4,Hypertension,Losartan,8 weeks,Public,Dr. Sarah Green,City General Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,poor
+P682,27,Male,130/80,75,98.4,Back Pain,Muscle Relaxants,3 weeks,Private,Dr. Emily Brown,Elite Care Clinic,Normal,Normal,None,2 weeks,None,Back Pain,5,amazing
+P683,56,Female,145/90,83,99.2,Asthma,Albuterol,6 weeks,Public,Dr. Rachel White,Health First Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,excellant
+P684,32,Male,125/80,74,98.3,Gastritis,Antacids,2 weeks,Private,Dr. John Smith,Sunset Hospital,Normal,Normal,None,1 week,None,Gastritis,5,great
+P685,54,Female,150/85,80,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Black,City General Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,normal
+P686,61,Male,155/95,85,99.3,Hypertension,Amlodipine,8 weeks,Public,Dr. Jessica Green,Elite Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P687,46,Female,140/85,77,99.2,Stroke,Aspirin,12 weeks,Private,Dr. William Black,Central Care Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P688,33,Male,120/76,73,98.4,Cold,Antihistamines,1 week,Private,Dr. Amy Green,St. Mary's Clinic,Normal,Normal,None,1 week,None,None,5,amazing
+P689,49,Female,135/85,78,98.7,Anemia,Folic Acid,6 weeks,Public,Dr. Rachel Brown,Elite Care Hospital,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,amazing
+P690,36,Male,130/80,75,98.5,Back Pain,Ibuprofen,3 weeks,Private,Dr. Emily Black,Green Valley Clinic,Normal,Normal,None,2 weeks,None,Back Pain,5,amazing
+P691,53,Female,145/90,83,99,Gastritis,Proton Pump Inhibitors,3 weeks,Public,Dr. William Green,City General Clinic,Normal,Normal,None,2 weeks,None,Gastritis,5,great
+P692,60,Male,150/92,85,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Green,Health First Hospital,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,average
+P693,48,Female,135/85,77,98.6,Asthma,Inhalers,6 weeks,Public,Dr. Sarah Brown,Central Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,too good
+P694,30,Male,120/75,73,98.4,Cold,Decongestants,1 week,Private,Dr. Emily White,Sunshine Clinic,Normal,Normal,None,1 week,None,None,5,great
+P695,37,Female,130/80,75,98.7,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. Rachel Lee,Green Valley Hospital,Normal,Normal,None,3 weeks,None,Back Pain,5,great
+P696,45,Male,140/85,79,99,Anemia,Iron Supplements,6 weeks,Public,Dr. Jessica Brown,Elite Care Clinic,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,great
+P697,55,Female,145/92,83,99.2,Hypertension,Metoprolol,8 weeks,Private,Dr. John White,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P698,40,Male,135/85,77,98.7,Gastritis,Proton Pump Inhibitors,3 weeks,Private,Dr. Linda Green,City General Clinic,Normal,Normal,None,2 weeks,None,Gastritis,5,great
+P699,34,Female,120/76,74,98.4,Asthma,Inhalers,5 weeks,Public,Dr. William Smith,Elite Care Hospital,Normal,Clear,None,4 weeks,Pollen,Asthma,4,super
+P700,60,Male,150/94,85,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Emily White,Central Care Clinic,High Cholesterol,Cardiomegaly,None,8 weeks,None,Heart Disease,3,good
+P701,38,Male,130/85,80,98.6,Diabetes Type 1,Metformin,6 weeks,Public,Dr. James Brown,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P702,45,Female,140/90,82,99.1,Arthritis,Ibuprofen,6 weeks,Private,Dr. Mary Green,Health First Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P703,29,Male,120/75,75,98.4,Asthma,Albuterol,6 weeks,Private,Dr. George Smith,Central Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,5,great
+P704,55,Female,145/90,84,99.2,Hypertension,Amlodipine,8 weeks,Public,Dr. Emily White,City General Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P705,63,Male,155/95,86,99.3,Heart Disease,Statins,10 weeks,Private,Dr. William Clark,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P706,32,Female,130/80,77,98.5,Gastritis,Antacids,2 weeks,Private,Dr. Linda Black,Sunshine Clinic,Normal,Normal,None,1 week,None,Gastritis,5,great
+P707,58,Male,140/85,81,99,Back Pain,Muscle Relaxants,4 weeks,Public,Dr. James White,Central Care Hospital,Normal,Normal,None,3 weeks,None,Back Pain,4,amazing
+P708,40,Female,135/80,79,98.8,Cold,Decongestants,1 week,Private,Dr. Emily Clark,Elite Care Clinic,Normal,Normal,None,1 week,None,None,5,super
+P709,66,Male,145/92,84,99.3,Stroke,Clopidogrel,12 weeks,Public,Dr. Rachel Green,Health First Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P710,36,Female,125/78,74,98.4,Asthma,Inhalers,6 weeks,Private,Dr. Sarah White,St. Mary's Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great
+P711,53,Male,140/88,80,99.2,Hypertension,Losartan,8 weeks,Public,Dr. Jessica Green,Sunshine Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P712,60,Female,150/90,85,99.1,Arthritis,Diclofenac,8 weeks,Private,Dr. William Green,Green Valley Hospital,Joint Pain,Normal,None,7 weeks,None,Arthritis,4,super
+P713,47,Male,130/80,76,98.7,Heart Disease,Statins,10 weeks,Public,Dr. Sarah Clark,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,amazing
+P714,29,Female,120/75,74,98.3,Anemia,Folic Acid,6 weeks,Private,Dr. Rachel Lee,Central Care Center,Low Hemoglobin,Normal,None,4 weeks,None,Anemia,5,excellant
+P715,45,Male,135/85,78,98.9,Back Pain,Ibuprofen,6 weeks,Public,Dr. William Black,Elite Care Center,Normal,Normal,None,5 weeks,None,Back Pain,4,super
+P716,34,Female,125/80,75,98.5,Asthma,Inhalers,6 weeks,Private,Dr. Linda White,Sunshine Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,great
+P717,41,Male,140/85,79,98.7,Hypertension,Losartan,8 weeks,Public,Dr. James Brown,Health First Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,very good
+P718,60,Female,150/95,86,99.4,Heart Disease,Statins,10 weeks,Private,Dr. Sarah White,Central Care Hospital,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P719,52,Male,145/90,82,99,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. Emily Brown,Elite Care Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,super
+P720,36,Female,130/80,76,98.4,Gastritis,Antacids,2 weeks,Private,Dr. John Clark,City General Clinic,Normal,Normal,None,1 week,None,Gastritis,5,amazing
+P721,49,Male,140/85,80,99.3,Arthritis,Diclofenac,6 weeks,Public,Dr. Sarah Green,Sunshine Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,amazing
+P722,33,Female,120/75,74,98.6,Cold,Antihistamines,1 week,Private,Dr. Rachel Green,Health First Clinic,Normal,Normal,None,1 week,None,None,5,great
+P723,50,Male,135/85,78,98.7,Hypertension,Metoprolol,8 weeks,Private,Dr. William Black,Elite Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,excellant
+P724,48,Female,130/80,77,98.9,Asthma,Inhalers,6 weeks,Public,Dr. Linda Clark,City General Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P725,42,Male,140/90,82,99.2,Stroke,Clopidogrel,12 weeks,Private,Dr. Jessica White,Central Care Center,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P726,58,Female,145/88,83,99.3,Heart Disease,Statins,10 weeks,Public,Dr. Rachel Black,Elite Care Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P727,36,Male,125/80,74,98.5,Gastritis,Antacids,2 weeks,Private,Dr. Sarah White,Health First Hospital,Normal,Normal,None,1 week,None,Gastritis,5,amazing
+P728,29,Female,120/75,74,98.6,Cold,Decongestants,1 week,Private,Dr. William Brown,City General Clinic,Normal,Normal,None,1 week,None,None,5,amazing
+P729,40,Male,130/85,77,99,Asthma,Albuterol,6 weeks,Private,Dr. Emily Brown,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great
+P730,53,Female,140/85,80,99.1,Arthritis,Ibuprofen,6 weeks,Public,Dr. Linda Black,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P731,45,Male,135/90,79,98.8,Hypertension,Amlodipine,8 weeks,Private,Dr. Rachel Smith,City General Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P732,48,Female,140/85,81,99.1,Heart Disease,Statins,10 weeks,Public,Dr. Sarah Lee,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,average
+P733,60,Male,145/90,83,99.3,Arthritis,Diclofenac,6 weeks,Private,Dr. William Green,Central Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P734,62,Female,150/95,84,99.4,Stroke,Clopidogrel,12 weeks,Public,Dr. Jessica Green,Sunshine Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P735,38,Male,130/80,76,98.9,Back Pain,Muscle Relaxants,6 weeks,Private,Dr. Rachel Brown,Health First Hospital,Normal,Normal,None,5 weeks,None,Back Pain,4,good
+P736,47,Female,135/85,78,98.7,Asthma,Inhalers,6 weeks,Public,Dr. Linda Green,Sunshine Hospital,Normal,Clear,None,5 weeks,Pollen,Asthma,4,amazing
+P737,56,Male,145/92,83,99.2,Heart Disease,Statins,10 weeks,Private,Dr. James Brown,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P738,49,Female,140/85,80,99.1,Hypertension,Metoprolol,8 weeks,Public,Dr. Sarah White,Elite Care Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P739,55,Male,150/95,85,99,Arthritis,Ibuprofen,6 weeks,Private,Dr. Emily Green,Central Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,excellant
+P740,43,Female,130/85,77,98.6,Back Pain,Muscle Relaxants,3 weeks,Private,Dr. Linda Clark,Elite Care Center,Normal,Normal,None,2 weeks,None,Back Pain,4,super
+P741,33,Male,120/75,74,98.8,Asthma,Albuterol,6 weeks,Private,Dr. William Green,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P742,57,Female,145/90,83,99.2,Hypertension,Losartan,8 weeks,Public,Dr. Rachel Brown,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,very good
+P743,64,Male,155/95,87,99.5,Stroke,Clopidogrel,12 weeks,Private,Dr. Emily Green,Sunshine Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P744,36,Female,125/80,75,98.6,Cold,Antihistamines,1 week,Private,Dr. Linda White,Elite Care Hospital,Normal,Normal,None,1 week,None,None,5,amazing
+P745,47,Male,140/85,80,99.3,Heart Disease,Statins,10 weeks,Public,Dr. William Clark,Central Care Hospital,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P746,58,Female,145/92,83,99.2,Hypertension,Amlodipine,8 weeks,Private,Dr. Jessica Brown,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,super
+P747,41,Male,130/80,76,98.7,Arthritis,Diclofenac,6 weeks,Private,Dr. Rachel White,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P748,53,Female,140/85,80,99.1,Asthma,Albuterol,6 weeks,Public,Dr. Sarah Green,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P749,45,Male,135/90,79,98.8,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Linda Black,Elite Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P750,50,Female,140/90,82,99,Back Pain,Ibuprofen,4 weeks,Public,Dr. Sarah White,St. Mary's Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,super
+P751,60,Male,150/95,85,99.2,Heart Disease,Statins,10 weeks,Private,Dr. William Brown,Central Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P752,47,Female,130/80,77,98.8,Asthma,Inhalers,6 weeks,Private,Dr. Emily Brown,City General Hospital,Normal,Clear,None,5 weeks,Pollen,Asthma,4,great
+P753,62,Male,145/90,83,99.3,Stroke,Clopidogrel,12 weeks,Public,Dr. Sarah White,Elite Care Center,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P754,30,Female,120/75,74,98.4,Cold,Decongestants,1 week,Private,Dr. Rachel Clark,Health First Clinic,Normal,Normal,None,1 week,None,None,5,amazing
+P755,48,Male,135/85,78,98.9,Arthritis,Ibuprofen,6 weeks,Public,Dr. William Green,Central Care Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P756,35,Female,130/85,76,98.6,Back Pain,Muscle Relaxants,3 weeks,Private,Dr. Sarah Green,Elite Care Center,Normal,Normal,None,2 weeks,None,Back Pain,4,very good
+P757,52,Male,145/92,83,99.2,Hypertension,Losartan,8 weeks,Public,Dr. Emily Brown,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P758,33,Female,120/75,74,98.4,Asthma,Inhalers,6 weeks,Private,Dr. Rachel White,Central Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P759,46,Male,140/90,80,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Linda Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P760,41,Female,130/80,77,98.7,Asthma,Albuterol,6 weeks,Private,Dr. William Brown,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great
+P761,55,Male,145/90,82,99.2,Back Pain,Ibuprofen,4 weeks,Public,Dr. Sarah Green,Sunshine Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,super
+P762,48,Female,140/85,79,98.9,Arthritis,Diclofenac,6 weeks,Private,Dr. Linda Brown,Central Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P763,60,Male,150/95,84,99.3,Hypertension,Amlodipine,8 weeks,Public,Dr. James White,Elite Care Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,average
+P764,37,Female,120/75,75,98.6,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Rachel Black,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,great
+P765,42,Male,135/85,78,98.9,Heart Disease,Statins,10 weeks,Public,Dr. Sarah Brown,Central Care Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P766,59,Female,145/92,84,99.1,Stroke,Clopidogrel,12 weeks,Private,Dr. William Green,Sunshine Hospital,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,good
+P767,34,Male,130/80,76,98.5,Asthma,Inhalers,6 weeks,Private,Dr. Linda White,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,very good
+P768,56,Female,140/90,81,99.3,Back Pain,Muscle Relaxants,4 weeks,Public,Dr. Emily Green,Sunshine Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,very good
+P769,48,Male,135/85,79,98.9,Hypertension,Losartan,8 weeks,Private,Dr. Sarah Black,City General Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P770,41,Female,120/75,74,98.4,Asthma,Albuterol,6 weeks,Private,Dr. Rachel Brown,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,too good
+P771,63,Male,155/95,87,99.4,Arthritis,Ibuprofen,6 weeks,Public,Dr. William Black,Elite Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,too good
+P772,39,Female,130/80,77,98.6,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Emily Clark,Sunshine Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P773,45,Male,140/85,80,99.1,Heart Disease,Statins,10 weeks,Private,Dr. William Brown,Health First Hospital,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P774,52,Female,145/90,83,99.3,Back Pain,Muscle Relaxants,4 weeks,Public,Dr. Rachel Green,Sunshine Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,very good
+P775,49,Male,130/85,79,98.9,Asthma,Inhalers,6 weeks,Private,Dr. Linda Black,Central Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,amazing
+P776,44,Female,135/85,78,99,Arthritis,Diclofenac,6 weeks,Private,Dr. Emily White,Health First Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P777,40,Male,130/80,76,98.8,Hypertension,Losartan,8 weeks,Public,Dr. William Green,Central Care Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P778,53,Female,140/85,80,99.2,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Sarah White,Sunshine Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P779,60,Male,150/95,85,99.1,Heart Disease,Statins,10 weeks,Private,Dr. James Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P780,46,Female,130/85,78,98.9,Back Pain,Ibuprofen,4 weeks,Private,Dr. Linda Green,Elite Care Center,Normal,Normal,None,3 weeks,None,Back Pain,4,very good
+P781,62,Male,145/92,83,99.3,Asthma,Inhalers,6 weeks,Public,Dr. Rachel White,Central Care Hospital,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P782,39,Female,120/75,74,98.7,Diabetes Type 1,Metformin,6 weeks,Private,Dr. William Brown,Health First Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,too good
+P783,56,Male,140/90,81,99.3,Arthritis,Diclofenac,6 weeks,Private,Dr. Emily Green,Elite Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P784,33,Female,130/80,76,98.5,Heart Disease,Statins,10 weeks,Public,Dr. Rachel Brown,Sunshine Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,average
+P785,48,Male,135/85,79,98.9,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. William Clark,Health First Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,amazing
+P786,50,Female,140/85,80,99.1,Hypertension,Losartan,8 weeks,Public,Dr. Sarah Green,Central Care Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P787,55,Male,145/90,82,99.2,Asthma,Albuterol,6 weeks,Private,Dr. Linda Brown,City General Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,very good
+P788,44,Female,130/80,77,98.9,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Emily White,Sunshine Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P789,52,Male,140/85,80,99,Back Pain,Ibuprofen,4 weeks,Public,Dr. William Brown,Elite Care Center,Normal,Normal,None,3 weeks,None,Back Pain,4,good
+P790,60,Female,150/95,84,99.3,Hypertension,Amlodipine,8 weeks,Private,Dr. Rachel Green,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P791,43,Male,130/85,77,98.7,Heart Disease,Statins,10 weeks,Public,Dr. Emily Clark,Central Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P792,55,Female,145/92,83,99.1,Stroke,Clopidogrel,12 weeks,Private,Dr. Sarah White,Sunshine Clinic,High Cholesterol,Abnormal,None,8 weeks,None,Stroke,3,normal
+P793,49,Male,130/85,78,98.9,Asthma,Inhalers,6 weeks,Public,Dr. Linda Clark,Central Care Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P794,60,Female,140/85,81,99.2,Arthritis,Diclofenac,6 weeks,Private,Dr. William Green,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P795,42,Male,130/80,76,98.5,Hypertension,Losartan,8 weeks,Public,Dr. Sarah Black,Central Care Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P796,59,Female,145/92,83,99.1,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. Rachel Brown,Sunshine Hospital,Normal,Normal,None,3 weeks,None,Back Pain,4,good
+P797,50,Male,140/85,80,99,Asthma,Albuterol,6 weeks,Private,Dr. William Black,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P798,47,Female,130/80,77,98.8,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda White,Elite Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P799,55,Male,145/90,82,99.2,Arthritis,Ibuprofen,6 weeks,Private,Dr. Emily Brown,Central Care Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P800,41,Female,135/85,78,98.9,Back Pain,Ibuprofen,4 weeks,Public,Dr. Sarah White,Health First Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,amazing
+P801,59,Male,140/90,82,99.1,Hypertension,Losartan,8 weeks,Private,Dr. Rachel Green,Elite Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P802,62,Female,145/92,83,99.3,Heart Disease,Statins,10 weeks,Public,Dr. William Clark,Health First Hospital,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P803,36,Female,120/75,74,98.4,Asthma,Inhalers,6 weeks,Private,Dr. Rachel Black,Central Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P804,47,Male,135/85,79,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda Green,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P805,50,Female,140/85,80,99.2,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. William Green,Elite Care Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,very good
+P806,45,Male,130/80,77,98.6,Heart Disease,Statins,10 weeks,Public,Dr. Sarah White,Central Care Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P807,54,Female,145/90,83,99.3,Arthritis,Diclofenac,6 weeks,Private,Dr. William Black,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,amazing
+P808,41,Male,130/80,76,98.8,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Rachel Brown,Sunshine Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P809,46,Female,140/85,79,99,Asthma,Albuterol,6 weeks,Public,Dr. Linda White,Elite Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,too good
+P810,60,Male,145/90,83,99.1,Hypertension,Amlodipine,8 weeks,Private,Dr. Sarah Brown,Health First Hospital,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P811,48,Female,130/85,78,98.7,Heart Disease,Statins,10 weeks,Public,Dr. Emily Green,Sunshine Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P812,39,Male,125/80,75,98.6,Back Pain,Muscle Relaxants,4 weeks,Private,Dr. Sarah White,City General Clinic,Normal,Normal,None,3 weeks,None,Back Pain,4,very good
+P813,51,Female,145/92,83,99.2,Asthma,Albuterol,6 weeks,Private,Dr. William Green,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,very good
+P814,54,Male,150/95,85,99.4,Hypertension,Amlodipine,8 weeks,Public,Dr. Rachel Brown,Central Care Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P815,33,Female,120/75,74,98.5,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Linda Clark,Elite Care Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P816,47,Female,135/85,79,98.9,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel Brown,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P817,53,Male,145/92,84,99.1,Hypertension,Losartan,8 weeks,Public,Dr. Emily Green,Central Care Center,Normal,Abnormal,None,6 weeks,None,Hypertension,3,too good
+P818,41,Female,130/80,76,98.6,Asthma,Albuterol,6 weeks,Private,Dr. Sarah Black,City General Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P819,55,Male,150/95,86,99.2,Arthritis,Diclofenac,6 weeks,Public,Dr. William Green,Sunshine Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,too good
+P820,39,Female,120/75,74,98.4,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Rachel White,Central Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P821,52,Male,135/85,78,98.8,Heart Disease,Statins,10 weeks,Public,Dr. Linda Clark,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P822,60,Female,140/85,80,99.3,Back Pain,Muscle Relaxants,5 weeks,Private,Dr. Emily White,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,very good
+P823,48,Male,145/90,82,99.1,Asthma,Inhalers,6 weeks,Public,Dr. William Brown,Health First Hospital,Normal,Clear,None,5 weeks,Pollen,Asthma,4,very good
+P824,43,Female,130/80,77,98.6,Arthritis,Ibuprofen,6 weeks,Private,Dr. Rachel Brown,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P825,58,Male,150/95,85,99.2,Hypertension,Amlodipine,8 weeks,Public,Dr. Sarah White,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,good
+P826,35,Female,120/75,74,98.5,Asthma,Albuterol,6 weeks,Private,Dr. Linda Black,Central Care Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4.super,
+P827,50,Male,135/85,79,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Emily Green,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P828,49,Female,140/85,80,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Rachel White,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,amazing
+P829,62,Male,145/90,83,99.3,Back Pain,Ibuprofen,5 weeks,Public,Dr. William Brown,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P830,56,Female,130/85,78,98.8,Asthma,Inhalers,6 weeks,Private,Dr. Linda Green,Central Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P831,43,Male,135/85,79,98.9,Arthritis,Diclofenac,6 weeks,Public,Dr. William White,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P832,51,Female,140/85,80,99,Hypertension,Losartan,8 weeks,Private,Dr. Sarah Brown,City General Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P833,58,Male,145/90,82,99.1,Back Pain,Muscle Relaxants,5 weeks,Public,Dr. Rachel Green,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,normal
+P834,45,Female,130/80,76,98.7,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Linda Black,Elite Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P835,42,Male,135/85,78,98.9,Asthma,Albuterol,6 weeks,Public,Dr. Emily Green,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,good
+P836,53,Female,145/92,83,99.2,Arthritis,Diclofenac,6 weeks,Private,Dr. Rachel Brown,Central Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P837,49,Male,140/85,80,99,Hypertension,Losartan,8 weeks,Private,Dr. Sarah White,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,average
+P838,44,Female,130/80,77,98.5,Heart Disease,Statins,10 weeks,Public,Dr. William Black,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,poor
+P839,60,Male,145/90,83,99.1,Back Pain,Ibuprofen,5 weeks,Private,Dr. Emily White,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P840,51,Female,130/85,78,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel White,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P841,38,Male,140/85,79,99,Asthma,Inhalers,6 weeks,Private,Dr. Linda Green,Central Care Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,great
+P842,55,Female,145/90,82,99.2,Hypertension,Amlodipine,8 weeks,Public,Dr. William Brown,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P843,45,Male,130/85,77,98.8,Arthritis,Diclofenac,6 weeks,Private,Dr. Rachel Brown,Sunshine Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P844,52,Female,140/85,80,99.1,Back Pain,Muscle Relaxants,5 weeks,Public,Dr. Sarah Green,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,too good
+P845,41,Male,135/85,79,98.9,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Emily Green,Central Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,too good
+P846,56,Female,130/85,78,98.9,Asthma,Albuterol,6 weeks,Public,Dr. Linda White,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great
+P847,54,Male,145/92,83,99.1,Arthritis,Ibuprofen,6 weeks,Private,Dr. Sarah White,Health First Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P848,60,Female,140/85,81,99,Hypertension,Losartan,8 weeks,Public,Dr. William Black,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P849,61,Male,145/90,82,99.3,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel Green,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,great
+P850,42,Female,130/80,76,98.8,Asthma,Inhalers,6 weeks,Private,Dr. Sarah Black,City General Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,great
+P851,55,Male,150/95,85,99.2,Diabetes Type 1,Metformin,6 weeks,Public,Dr. William Brown,Central Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P852,60,Female,145/90,83,99.3,Heart Disease,Statins,10 weeks,Private,Dr. Emily Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P853,46,Female,135/85,79,98.9,Back Pain,Muscle Relaxants,5 weeks,Private,Dr. Rachel Brown,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,great
+P854,52,Male,140/85,80,99.2,Asthma,Albuterol,6 weeks,Public,Dr. Sarah White,Central Care Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P855,49,Female,145/92,83,99.1,Hypertension,Amlodipine,8 weeks,Private,Dr. Linda White,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P856,61,Male,150/95,85,99.3,Arthritis,Ibuprofen,6 weeks,Public,Dr. William Green,Health First Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,amazing
+P857,48,Female,130/80,77,98.8,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Rachel White,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P858,56,Male,145/90,83,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Brown,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,great
+P859,52,Female,130/85,78,98.9,Back Pain,Ibuprofen,5 weeks,Private,Dr. Emily White,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,very good
+P860,54,Male,140/85,80,99.1,Asthma,Inhalers,6 weeks,Public,Dr. Linda Green,Central Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P861,45,Female,130/80,76,98.7,Arthritis,Diclofenac,6 weeks,Private,Dr. Rachel Green,Sunshine Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P862,60,Male,145/92,83,99.3,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Sarah White,Health First Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P863,51,Female,140/85,80,99,Heart Disease,Statins,10 weeks,Public,Dr. Emily Green,Sunshine Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P864,42,Male,130/85,77,98.9,Back Pain,Muscle Relaxants,5 weeks,Private,Dr. William Brown,Central Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P865,44,Female,135/85,78,99,Asthma,Albuterol,6 weeks,Public,Dr. Rachel Black,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P866,50,Female,130/80,76,98.7,Hypertension,Losartan,8 weeks,Private,Dr. Sarah White,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,average
+P867,46,Male,140/85,78,99.2,Arthritis,Diclofenac,6 weeks,Public,Dr. Emily Green,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P868,52,Female,145/92,83,99,Back Pain,Ibuprofen,5 weeks,Private,Dr. William Black,City General Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,very good
+P869,44,Male,135/85,77,98.8,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Green,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P870,57,Female,130/85,78,98.9,Heart Disease,Statins,10 weeks,Private,Dr. Linda White,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,amazing
+P871,41,Male,120/75,74,98.6,Asthma,Albuterol,6 weeks,Private,Dr. Emily Green,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,poor
+P872,55,Female,140/85,80,99.1,Arthritis,Ibuprofen,6 weeks,Public,Dr. Sarah Brown,Central Care Center,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P873,60,Male,145/90,83,99.2,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Linda Green,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P874,59,Female,130/85,79,99.1,Hypertension,Amlodipine,8 weeks,Public,Dr. Rachel Black,Sunshine Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P875,48,Male,135/85,78,99,Asthma,Inhalers,6 weeks,Private,Dr. William Green,Central Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P876,47,Female,140/85,80,99.1,Back Pain,Ibuprofen,5 weeks,Public,Dr. Emily White,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P877,50,Male,145/92,83,99.2,Arthritis,Diclofenac,6 weeks,Private,Dr. Sarah White,Health First Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,excellant
+P878,53,Female,135/85,79,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda White,Central Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,excellant
+P879,60,Male,140/85,81,99,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Green,Sunshine Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,poor
+P880,55,Female,145/90,83,99.3,Asthma,Albuterol,6 weeks,Public,Dr. William Black,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P881,52,Male,130/80,77,98.8,Arthritis,Ibuprofen,6 weeks,Private,Dr. Sarah Black,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P882,41,Female,140/85,79,99.1,Back Pain,Muscle Relaxants,5 weeks,Public,Dr. Rachel Green,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,very good
+P883,47,Male,135/85,78,98.9,Diabetes Type 1,Metformin,6 weeks,Private,Dr. William Brown,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,veyr goof
+P884,51,Female,140/85,80,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Emily White,Sunshine Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,amazing
+P885,53,Male,145/92,83,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Linda Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,poor
+P886,59,Female,130/85,79,99,Back Pain,Ibuprofen,5 weeks,Public,Dr. Rachel White,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P887,46,Male,140/85,78,99.3,Arthritis,Diclofenac,6 weeks,Private,Dr. Sarah White,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P888,50,Female,145/92,83,99.2,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda White,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P889,48,Male,130/80,76,98.9,Hypertension,Amlodipine,8 weeks,Private,Dr. Emily Green,City General Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P890,54,Female,145/90,83,99,Asthma,Albuterol,6 weeks,Public,Dr. William Green,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P891,59,Male,130/85,79,99.1,Arthritis,Diclofenac,6 weeks,Private,Dr. Sarah Black,Central Care Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P892,55,Female,140/85,80,99.3,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Brown,Health First Hospital,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P893,51,Male,145/90,83,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Linda Green,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,worst
+P894,50,Female,130/80,76,98.8,Back Pain,Muscle Relaxants,5 weeks,Private,Dr. William Brown,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,great
+P895,47,Male,140/85,78,99,Asthma,Inhalers,6 weeks,Public,Dr. Emily Green,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P896,46,Female,135/85,77,98.9,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Rachel White,Elite Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,great
+P897,53,Male,145/92,83,99.2,Arthritis,Ibuprofen,6 weeks,Public,Dr. William Brown,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,amazing
+P898,59,Female,140/85,81,99,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Brown,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P899,60,Male,135/85,79,99.1,Back Pain,Ibuprofen,5 weeks,Private,Dr. Linda Green,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,excellant
+P900,56,Female,145/92,83,99.3,Asthma,Albuterol,6 weeks,Public,Dr. Rachel White,Central Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,excellant
+P901,51,Male,130/80,77,98.8,Arthritis,Diclofenac,6 weeks,Private,Dr. Emily Green,Health First Hospital,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P902,53,Female,140/85,80,99.2,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Sarah Green,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P903,44,Male,145/90,82,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Linda White,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,normal
+P904,45,Female,130/80,76,98.9,Back Pain,Muscle Relaxants,5 weeks,Public,Dr. William Brown,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,above average
+P905,49,Male,140/85,78,99.2,Asthma,Inhalers,6 weeks,Private,Dr. Sarah White,Central Care Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,above average
+P906,58,Female,145/90,82,99.3,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Green,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,above average
+P907,51,Male,130/80,77,98.8,Arthritis,Ibuprofen,6 weeks,Private,Dr. William White,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,above average
+P908,55,Female,145/92,83,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Brown,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,above average
+P909,60,Male,135/85,79,99,Back Pain,Ibuprofen,5 weeks,Public,Dr. Linda Green,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,above average
+P910,57,Female,145/90,83,99.1,Asthma,Albuterol,6 weeks,Private,Dr. Sarah Brown,City General Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,above average
+P911,52,Male,130/80,78,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda White,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,above average
+P912,55,Female,140/85,81,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,above average
+P913,48,Male,135/85,78,99.2,Back Pain,Muscle Relaxants,5 weeks,Public,Dr. Emily White,Central Care Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P914,51,Female,145/92,83,99.3,Arthritis,Diclofenac,6 weeks,Private,Dr. William Green,Health First Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P915,43,Male,140/85,78,99.1,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Brown,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P916,45,Female,130/80,76,98.9,Hypertension,Amlodipine,8 weeks,Private,Dr. Emily Green,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P917,53,Male,140/85,78,99.1,Back Pain,Ibuprofen,5 weeks,Public,Dr. Sarah White,City General Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P918,60,Female,145/92,83,99.2,Asthma,Albuterol,6 weeks,Private,Dr. William Brown,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,good
+P919,48,Male,135/85,79,99,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Rachel Green,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,excellant
+P920,41,Female,120/75,74,98.8,Arthritis,Diclofenac,6 weeks,Public,Dr. Emily White,Sunshine Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,super
+P921,55,Male,145/90,82,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,below average
+P922,52,Female,140/85,80,99.2,Asthma,Inhalers,6 weeks,Private,Dr. Rachel White,Central Care Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P923,47,Male,135/85,78,99.1,Back Pain,Muscle Relaxants,5 weeks,Public,Dr. William Green,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P924,53,Female,145/92,83,99,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Linda White,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,great doctors
+P925,59,Male,130/85,79,99.2,Asthma,Albuterol,6 weeks,Private,Dr. Emily Green,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P926,56,Female,140/85,81,99.1,Heart Disease,Statins,10 weeks,Public,Dr. Sarah Brown,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,average doctors
+P927,45,Male,120/75,73,98.9,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel Green,City General Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P928,47,Female,130/80,77,98.8,Diabetes Type 2,Metformin,6 weeks,Public,Dr. Linda Green,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,great
+P929,51,Male,135/85,78,99,Hypertension,Amlodipine,8 weeks,Private,Dr. William White,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,amazing
+P930,49,Female,145/92,83,99.1,Arthritis,Diclofenac,6 weeks,Public,Dr. Sarah White,Central Care Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,excellant
+P931,42,Male,140/85,80,99.3,Asthma,Inhalers,6 weeks,Private,Dr. Emily Green,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,great doctors
+P932,46,Female,130/80,76,98.7,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel White,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P933,50,Male,135/85,79,99,Heart Disease,Statins,10 weeks,Private,Dr. Linda Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,average treatment
+P934,60,Female,140/85,82,99.2,Back Pain,Ibuprofen,5 weeks,Public,Dr. William Brown,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P935,48,Male,145/92,83,99.3,Asthma,Albuterol,6 weeks,Private,Dr. Sarah Green,Elite Care Center,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P936,53,Female,130/80,77,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Green,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P937,54,Male,140/85,79,99,Hypertension,Amlodipine,8 weeks,Private,Dr. Emily White,Health First Clinic,Normal,Abnormal,None,6 weeks,None,Hypertension,3,normal
+P938,50,Female,145/92,83,99.1,Back Pain,Ibuprofen,5 weeks,Public,Dr. William Brown,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,above average
+P939,47,Male,130/80,76,98.8,Asthma,Inhalers,6 weeks,Private,Dr. Linda White,Sunshine Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P940,53,Female,140/85,80,99.2,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Sarah Brown,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P941,51,Male,145/92,83,99.1,Heart Disease,Statins,10 weeks,Private,Dr. William White,Central Care Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P942,45,Female,130/80,77,98.9,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel Green,City General Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P943,48,Male,140/85,79,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Linda Green,Elite Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good
+P944,56,Female,145/92,83,99.3,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Sarah White,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P945,59,Male,130/85,80,99.1,Heart Disease,Statins,10 weeks,Public,Dr. Rachel White,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P946,51,Female,140/85,79,99,Back Pain,Muscle Relaxants,5 weeks,Private,Dr. Emily White,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good
+P947,47,Male,135/85,78,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Rachel Green,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,good
+P948,52,Female,145/92,83,99,Arthritis,Diclofenac,6 weeks,Private,Dr. Linda Green,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,good
+P949,49,Male,130/80,76,98.8,Diabetes Type 1,Metformin,6 weeks,Public,Dr. William Brown,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P950,55,Female,145/92,83,99.2,Asthma,Albuterol,6 weeks,Private,Dr. Emily Green,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P951,41,Male,140/85,80,99,Back Pain,Ibuprofen,5 weeks,Public,Dr. Rachel Green,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P952,56,Female,130/80,77,99.3,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Brown,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P953,48,Male,145/92,83,99.1,Arthritis,Diclofenac,6 weeks,Public,Dr. Rachel White,Central Care Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,excellant
+P954,51,Female,135/85,80,99.2,Asthma,Inhalers,6 weeks,Private,Dr. William Green,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,very good
+P955,45,Male,140/85,78,98.9,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda Green,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P956,50,Female,145/92,83,99.2,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel White,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,very good
+P957,43,Male,130/80,77,98.8,Asthma,Inhalers,6 weeks,Public,Dr. Sarah Brown,Central Care Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P958,55,Female,140/85,79,99,Heart Disease,Statins,10 weeks,Private,Dr. Emily Green,Sunshine Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,poor
+P959,49,Male,145/92,83,99.1,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Green,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,very good
+P960,60,Female,130/85,78,99.3,Arthritis,Diclofenac,6 weeks,Private,Dr. Sarah White,City General Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,very good
+P961,50,Male,140/85,80,99.2,Back Pain,Ibuprofen,5 weeks,Public,Dr. Rachel Green,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,very good
+P962,57,Female,145/92,83,99,Asthma,Albuterol,6 weeks,Private,Dr. Emily Green,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,very good
+P963,52,Male,130/80,77,98.8,Heart Disease,Statins,10 weeks,Private,Dr. Linda White,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,bad
+P964,46,Female,140/85,80,99.1,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Sarah Green,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P965,50,Male,145/92,83,99.2,Back Pain,Ibuprofen,5 weeks,Private,Dr. William White,Central Care Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P966,49,Female,130/80,77,98.9,Asthma,Inhalers,6 weeks,Public,Dr. Rachel White,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,amazing
+P967,55,Male,140/85,80,99,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Emily Brown,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P968,53,Female,145/92,83,99.1,Back Pain,Ibuprofen,5 weeks,Public,Dr. William Green,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,amazing
+P969,58,Male,130/80,78,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Sarah White,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3.average,
+P970,42,Female,135/85,79,99.1,Arthritis,Diclofenac,6 weeks,Private,Dr. Rachel Green,Sunshine Clinic,Joint Pain,Normal,None,5 weeks,None,Arthritis,4,amazing
+P971,48,Male,140/85,80,99.3,Asthma,Inhalers,6 weeks,Public,Dr. Linda White,City General Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,amazing
+P972,52,Female,145/92,83,99,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Sarah Brown,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,amazing
+P973,45,Male,130/80,77,99.1,Back Pain,Ibuprofen,5 weeks,Public,Dr. William Green,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P974,56,Female,140/85,79,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Rachel White,Central Care Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,great
+P975,59,Male,135/85,80,99.3,Asthma,Albuterol,6 weeks,Public,Dr. Emily White,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P976,43,Female,130/80,75,98.8,Diabetes Type 1,Metformin,6 weeks,Private,Dr. William Brown,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P977,50,Male,145/92,83,99.1,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel Green,City General Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P978,49,Female,140/85,79,99,Asthma,Inhalers,6 weeks,Public,Dr. Sarah White,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P979,51,Male,135/85,78,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Linda Green,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P980,57,Female,145/92,83,99.3,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Emily Green,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P981,42,Male,130/80,76,98.9,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel Brown,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,great doctors
+P982,56,Female,140/85,80,99.1,Asthma,Inhalers,6 weeks,Public,Dr. Sarah Brown,City General Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great doctors
+P983,49,Male,135/85,79,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Green,Elite Care Center,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,average treatment
+P984,48,Female,145/92,83,99,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Sarah Green,Sunshine Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,great doctors
+P985,52,Male,130/80,77,99.1,Back Pain,Ibuprofen,5 weeks,Private,Dr. Emily Brown,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,great doctors
+P986,45,Female,140/85,78,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Linda Green,City General Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,great doctors
+P987,50,Male,145/92,83,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Brown,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,too expensive
+P988,54,Female,135/85,79,99.3,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Green,Central Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good
+P989,46,Male,140/85,80,99,Back Pain,Ibuprofen,5 weeks,Private,Dr. Linda White,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,great doctors
+P990,58,Female,145/92,83,99.2,Asthma,Albuterol,6 weeks,Public,Dr. William White,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,great doctors
+P991,43,Male,130/80,77,98.8,Diabetes Type 1,Metformin,6 weeks,Private,Dr. Emily Green,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,great doctors
+P992,51,Female,135/85,78,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Rachel White,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good
+P993,47,Male,140/85,79,99,Back Pain,Ibuprofen,5 weeks,Public,Dr. Sarah White,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good treatment
+P994,52,Female,145/92,83,99.3,Asthma,Inhalers,6 weeks,Private,Dr. William Green,Elite Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,good treatment
+P995,50,Male,130/80,77,99.1,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Rachel Brown,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good treatment
+P996,54,Female,140/85,79,99.2,Back Pain,Ibuprofen,5 weeks,Private,Dr. Emily White,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good treatment
+P997,55,Male,145/92,83,99.1,Heart Disease,Statins,10 weeks,Public,Dr. Linda Green,Sunshine Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,good treatment
+P998,50,Female,130/80,76,99.2,Asthma,Inhalers,6 weeks,Private,Dr. Sarah Brown,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,good treatment
+P999,47,Male,135/85,79,99.1,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Emily Green,Elite Care Center,Normal,Abnormal,None,5 weeks,None,Diabetes,4,good treatment
+P1000,46,Female,140/85,80,99,Back Pain,Ibuprofen,5 weeks,Private,Dr. William Brown,Sunshine Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,good treatment
+P1001,49,Male,145/92,83,99.1,Asthma,Albuterol,6 weeks,Public,Dr. Rachel White,Health First Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,good treatment
+P1002,52,Female,130/80,77,99.2,Heart Disease,Statins,10 weeks,Private,Dr. Sarah Green,City General Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,poor treatment
+P1003,43,Male,140/85,80,99.1,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Linda Green,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P1004,48,Female,135/85,78,99,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel White,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P1005,55,Male,140/85,79,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Emily White,Health First Clinic,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P1006,54,Female,145/92,83,99.3,Diabetes Type 1,Metformin,6 weeks,Private,Dr. William Green,Central Care Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P1007,49,Male,130/80,77,99.1,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Brown,Health First Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P1008,46,Female,135/85,78,99,Back Pain,Ibuprofen,5 weeks,Public,Dr. Sarah Green,Elite Care Center,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P1009,55,Male,145/92,83,99.1,Asthma,Albuterol,6 weeks,Private,Dr. Emily Brown,Sunshine Clinic,Normal,Clear,None,5 weeks,Dust,Asthma,4,super
+P1010,52,Female,140/85,79,99,Diabetes Type 1,Metformin,6 weeks,Public,Dr. William White,City General Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
+P1011,53,Male,130/80,76,99.1,Back Pain,Ibuprofen,5 weeks,Private,Dr. Rachel White,Health First Clinic,Normal,Normal,None,4 weeks,None,Back Pain,4,super
+P1012,47,Female,145/92,83,99.2,Asthma,Inhalers,6 weeks,Public,Dr. Sarah Brown,Elite Care Center,Normal,Clear,None,5 weeks,Pollen,Asthma,4,super
+P1013,50,Male,140/85,78,99.3,Heart Disease,Statins,10 weeks,Private,Dr. Rachel Green,Central Care Clinic,High Cholesterol,Abnormal,Angioplasty,8 weeks,None,Heart Disease,3,super
+P1014,44,Female,135/85,77,98.8,Diabetes Type 1,Metformin,6 weeks,Public,Dr. Emily Green,Health First Clinic,Normal,Abnormal,None,5 weeks,None,Diabetes,4,super
