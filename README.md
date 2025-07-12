@@ -19,13 +19,12 @@
   <img src="https://img.shields.io/badge/-Matplotlib-2067b8?style=for-the-badge&logo=python" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/-Jinja2-b41717?style=for-the-badge&logo=jinja&logoColor=white" style="margin: 4px;" />
 
 </div>
 
 ---
 
-#🧰 Tools & Technologies
+<h3 align="center">🧰 Tools & Technologies</h3>
 
 <div align="center">
 
@@ -35,15 +34,15 @@
 | 📊 Data Manipulation | Pandas, NumPy                          |
 | 🤖 Machine Learning  | Scikit-learn, Joblib                   |
 | 📈 Visualization     | Matplotlib, Plotly, Seaborn            |
-| 🌐 Frontend          | HTML5, CSS3, Jinja2                    |
-| 🧠 Sentiment Analysis| VADER (optional future)                |
-| ☁️ Deployment        | Render / Heroku (manual setup)         |
+| 🌐 Frontend          | HTML5, CSS                             |
+| 🧠 Sentiment Analysis| Textblob                               |
+| ☁️ Deployment        | Render / Manual Setup / Local Host     |
 
 </div>
 
 ---
 
-#📂 Project Structure
+<h3 align="center">📂 Project Structure</h3>
 ``` bash
 📁 Diagnalytics/
 ├── 📁 static/
@@ -58,7 +57,7 @@
 
 ---
 
-#📈 Data Analytics & Visual Insights
+<h3 align="center">📈 Data Analytics & Visual Insights</h3>
 ### 🎯 1. Distributions
 - **Age**, **Treatment Duration**, **Recovery Time**, **SAT Score**
   > Helps identify common recovery age groups or skewed satisfaction
