@@ -1,21 +1,44 @@
-# Smart Healthcare Prediction
+<h1 align="center">🧠 SMART HEALTHCARE PREDICTION 💉</h1>
+<p align="center"><i>Transforming Healthcare with Predictive Precision and Impact</i></p>
 
-*Transforming Healthcare with Predictive Precision and Impact*
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/CodeCraftedByPriya/SmartHealthcarePrediction?style=flat-square">
+  <img src="https://img.shields.io/badge/python-67.8%25-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/languages-2-blue?style=flat-square">
+</p>
 
-![Last Commit](https://img.shields.io/github/last-commit/CodeCraftedByPriya/SmartHealthcarePrediction?style=flat-square)
-![Python](https://img.shields.io/badge/python-67.8%25-blue?style=flat-square)
-![Languages](https://img.shields.io/badge/languages-2-blue?style=flat-square)
+## Table of Contents
+# Project Overview
+# Dataset Description
+# Features
+# Project Structure
+# Tools & Technologies
+# Data Analytics & Visual Insights
 
----
+<details>
+<summary>📂 Project Structure</summary>
 
-### 🚀 Built with the tools and technologies:
+```bash
+📁 Diagnalytics/
+├── 📁 static/
+    ├── Charts/graphs used in the analytics.html
+├── 📁 templates/
+    ├── home.html
+    ├── analytics.html
+├── app.py
+├── predict.py
+|── requirements.txt
+...
+</details>
 
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Scikit-learn](https://img.shields.io/badge/-scikitlearn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat-square&logo=plotly)
-![Pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas)
+## 🧰 Tools & Technologies
 
----
+| Category             | Tools Used |
+|----------------------|------------|
+| Web Framework        | Flask |
+| Data Manipulation    | Pandas, NumPy |
+| Machine Learning     | Scikit-learn, Joblib |
+| Data Visualization   | Matplotlib |
+| Frontend             | HTML5, CSS3, Jinja2 |
+| Sentiment Analysis   | VADER (optional future) |
+| Deployment Ready     | Render / Heroku (manual setup) |
