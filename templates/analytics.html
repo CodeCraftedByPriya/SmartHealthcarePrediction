@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SMART HEALTHCARE PREDICTION - Analytics</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #f4f7f8;
+      color: #114b5f;
+    }
+    header {
+      text-align: center;
+      padding: 30px 10px 10px;
+      font-size: 36px;
+      font-weight: 700;
+      background: linear-gradient(90deg, #117a8b, #4a90e2);
+      color: white;
+    }
+    nav {
+      background: #e4f1f4;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 20px;
+      text-decoration: none;
+      font-weight: 600;
+      color: #0b3d91;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 6px 24px rgba(17, 75, 95, 0.1);
+    }
+    h2 {
+      color: #117a8b;
+      border-bottom: 2px solid #4a90e2;
+      padding-bottom: 10px;
+    }
+    .chart-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 30px;
+      margin-top: 30px;
+    }
+    .chart-box {
+      background: #f0f7f8;
+      padding: 20px;
+      border-radius: 16px;
+      text-align: center;
+    }
+    .chart-box img {
+      max-width: 100%;
+      border-radius: 12px;
+    }
+    footer {
+      text-align: center;
+      padding: 30px 0;
+      font-style: italic;
+      background: #f4f7f8;
+      color: #117a8b;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <header>SMART HEALTHCARE PREDICTION</header>
+
+  <nav>
+    <a href="{{ url_for('index') }}">Home</a>
+    <a href="{{ url_for('analytics') }}">Analytics</a>
+  </nav>
+
+  <main class="container">
+  <h2>Data Analytics Dashboard</h2>
+  <div class="chart-grid">
+    <div class="chart-box">
+      <h3>Age Distribution</h3>
+      <img src="/static/dist_plots.png" alt="Age Distribution" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3> Recovery by Gender</h3>
+      <img src="/static/rec_gen.png" alt="Recovery by Gender" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Temperature Diagnosis</h3>
+      <img src="/static/temp_diagnosis.png" alt="Temperature Vs Diagnosis" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Heart Rate Diagnosis</h3>
+      <img src="/static/heart_rate_diagnosis.png" alt="Recovery Days" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Age Distribution by Gender</h3>
+      <img src="/static/age_distribution_gen.png" alt="SAT Scores" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>SAT by Age Group</h3>
+      <img src="/static/sat_age_group.png" alt="SAT by Age Group" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Correlation Heatmap</h3>
+      <img src="/static/correlation_heatmap.png" alt="Correlation Heatmap" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Top 10 Diagnosis Avg Recovery</h3>
+      <img src="/static/avg_recovery_top10.png" alt="Top 10 Diagnosis Recovery" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Treatment vs Recovery</h3>
+      <img src="/static/treatment_vs_recovery.png" alt="Treatment Days" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+    <div class="chart-box">
+      <h3>Treatment vs Recovery by Surgery</h3>
+      <img src="/static/treat_time_surgery.png" alt="Treatment vs Recovery by Surgery" style="object-fit: contain; width: 100%; height: 300px;" />
+    </div>
+  </div>
+
+  <div class="chart-box">
+    <h3>Average SAT Score by Doctor</h3>
+    {{ chart1 | safe }}
+  </div>
+
+  <div class="chart-box">
+    <h3>Average Recovery Time by Hospital</h3>
+    {{ chart2 | safe }}
+  </div>
+
+  <div style="margin-top: 50px; background: #eef5f8; padding: 25px; border-radius: 12px;">
+    <h3 style="color:#117a8b;">Aggregated Insights</h3>
+    <ul>
+      <li><strong>Top 5 Diagnoses:</strong> {{ insights.top_diagnoses | join(', ') }}</li>
+      <li><strong>Surgery Types Count:</strong> {{ insights.surgery_counts | join(', ') }}</li>
+      <li><strong>Common Medications:</strong> {{ insights.common_meds | join(', ') }}</li>
+      <li><strong>Average Recovery Time:</strong> {{ insights.avg_recovery }} days</li>
+      <li><strong>Highest Satisfaction:</strong> {{ insights.best_doctor }} at {{ insights.best_hospital }}</li>
+      <li><strong>Surgeries with Longest Recovery:</strong> {{ insights.longest_recovery | join(', ') }}</li>
+    </ul>
+  </div>
+</main>
+
+  <footer>
+    "Every step forward is a step toward a healthier tomorrow."
+  </footer>
+</body>
+</html>

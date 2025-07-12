@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>SMART HEALTHCARE PREDICTION</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #f4f7f8;
+      color: #114b5f;
+    }
+    header {
+      text-align: center;
+      padding: 30px 10px 10px;
+      font-size: 36px;
+      font-weight: 700;
+      background: linear-gradient(90deg, #117a8b, #4a90e2);
+      color: white;
+    }
+    nav {
+      background: #e4f1f4;
+      padding: 10px 0;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 20px;
+      text-decoration: none;
+      font-weight: 600;
+      color: #0b3d91;
+    }
+    .container {
+      max-width: 960px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 6px 24px rgba(17, 75, 95, 0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #4a90e2;
+      padding-bottom: 10px;
+      color: #117a8b;
+    }
+    label {
+      display: block;
+      margin-top: 20px;
+      font-weight: 600;
+      color: #0b3d91;
+    }
+    input, select {
+      width: 100%;
+      padding: 10px;
+      border-radius: 10px;
+      border: 2px solid #117a8b;
+      margin-top: 5px;
+      font-size: 16px;
+    }
+    button {
+      margin-top: 30px;
+      padding: 14px;
+      width: 100%;
+      border-radius: 10px;
+      background: linear-gradient(90deg, #117a8b, #4a90e2);
+      color: white;
+      font-size: 16px;
+      font-weight: 700;
+      border: none;
+    }
+    .result {
+      font-size: 18px;
+      margin-top: 30px;
+      font-weight: 600;
+      color: #0b3d91;
+    }
+    .chart-container {
+      margin-top: 30px;
+      background: #f0f7f8;
+      padding: 20px;
+      border-radius: 16px;
+      text-align: center;
+    }
+    .chart-container img {
+      max-width: 100%;
+      border-radius: 12px;
+    }
+    footer {
+      text-align: center;
+      padding: 30px 0;
+      font-style: italic;
+      background: #f4f7f8;
+      color: #117a8b;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <header>SMART HEALTHCARE PREDICTION</header>
+
+  <nav>
+    <a href="{{ url_for('index') }}">Home</a>
+    <a href="{{ url_for('analytics') }}">Analytics</a>
+  </nav>
+
+  <main class="container">
+    <h2>Input Panel</h2>
+    <form method="POST" action="/predict">
+      <label>Age</label>
+      <input type="number" name="age" required />
+
+      <label>Gender</label>
+      <select name="gender" required>
+        <option value="">Select Gender</option>
+        <option value="0">Male</option>
+        <option value="1">Female</option>
+      </select>
+
+      <label>Heart Rate (bpm)</label>
+      <input type="number" name="heart_rate" required />
+
+      <label>Body Temperature (°F)</label>
+      <input type="number" name="temperature" step="0.1" required />
+
+      <label>Systolic BP</label>
+      <input type="number" name="systolic" required />
+
+      <label>Diastolic BP</label>
+      <input type="number" name="diastolic" required />
+
+      <label>X-ray Result</label>
+      <select name="xray" required>
+        <option value="">Select</option>
+        <option value="0">Normal</option>
+        <option value="1">Abnormal</option>
+      </select>
+
+      <label>Lab Test Result</label>
+      <input type="number" name="lab" required />
+
+      <label>Allergies</label>
+      <select name="allergies" required>
+        <option value="">Select</option>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+      </select>
+
+    <label>Family History</label>
+      <select name="family_history" required>
+        <option value="">Select</option>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+      </select>
+
+      <label>Medication</label>
+      <input type="text" name="medication" />
+
+      <label>Surgery Type</label>
+      <input type="text" name="surgery_type" />
+
+      <label>Doctor Name</label>
+      <input type="text" name="doctor_name" />
+
+      <label>Hospital Name</label>
+      <input type="text" name="hospital_name" />
+
+      <button type="submit">Predict</button>
+    </form>
+
+
+    {% if input %}
+      <div class="result" id="resultBox">
+        <h3>Prediction Results</h3>
+        <p><strong>Diagnosis:</strong> {{ diagnosis }}</p>
+        <p><strong>Estimated Recovery:</strong> {{ recovery }} days</p>
+        <hr/>
+        <h4>Your Inputs:</h4>
+        <ul>
+          {% for key, value in input.items() %}
+            <li><strong>{{ key.replace('_', ' ').title() }}:</strong> {{ value }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
+    <div class="chart-container">
+      <h3>Sentiment Analysis (SAT)</h3>
+      <img src="/static/sat_dist.png" alt="Sentiment Pie Chart" />
+    </div>
+  </main>
+
+  <footer>
+    "Every step forward is a step toward a healthier tomorrow."
+  </footer>
+</body>
+</html>
