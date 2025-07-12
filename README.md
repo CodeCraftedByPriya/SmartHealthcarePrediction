@@ -9,8 +9,6 @@
 
 
 ##📂 Project Structure
-  
-```bash
 📁 Diagnalytics/
 ├── 📁 static/
     ├── Charts/graphs used in the analytics.html
@@ -20,7 +18,6 @@
 ├── app.py
 ├── predict.py
 |── requirements.txt
-...
 
 ##🧰 Tools & Technologies
 
