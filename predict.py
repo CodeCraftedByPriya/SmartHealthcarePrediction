@@ -251,6 +251,16 @@ def RecHos_chart():
     fig.update_layout(xaxis={'categoryorder': 'total ascending'})
     return fig.to_html(full_html=False)
 
+# Get top 10 most frequent Diagnosis-Medication pairs
+top10 = df.groupby(['Diagnosis', 'Medication']).size().sort_values(ascending=False).head(10).reset_index().drop(columns=0)
+avg_recovery = df.groupby(['Diagnosis', 'Medication'])['Recovery_Days'].mean().reset_index()
+merged = pd.merge(top10, avg_recovery, on=['Diagnosis', 'Medication'])
+pivot = merged.pivot(index='Diagnosis', columns='Medication', values='Recovery_Days')
+plt.figure(figsize=(8, 5))
+sns.heatmap(pivot, annot=True, fmt=".1f", cmap='Blues')
+plt.title("Avg Recovery Days for Top Diagnosis-Medication Pairs")
+plt.tight_layout()
+plt.show()
 
 # 1. Does Family History or Allergies Influence Diagnosis?
 top_diagnoses = df['Diagnosis'].value_counts().head(5).index
