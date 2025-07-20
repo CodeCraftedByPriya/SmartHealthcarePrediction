@@ -172,16 +172,20 @@
 
     {% if input %}
       <div class="result" id="resultBox">
-        <h3>Prediction Results</h3>
-        <p><strong>Diagnosis:</strong> {{ diagnosis }}</p>
-        <p><strong>Estimated Recovery:</strong> {{ recovery }} days</p>
-        <hr/>
         <h4>Your Inputs:</h4>
         <ul>
           {% for key, value in input.items() %}
             <li><strong>{{ key.replace('_', ' ').title() }}:</strong> {{ value }}</li>
           {% endfor %}
         </ul>
+        <hr>
+        <h3>Prediction Results</h3>
+        <p><strong>Diagnosis:</strong> {{ diagnosis }}</p>
+        <p><strong>Estimated Recovery:</strong> {{ recovery }} days</p>
+        <hr>
+        <h4>Model Evaluation Metrics:</h4>
+        <p><strong>Classification Accuracy:</strong> {{ accuracy }}%</p>
+        <p><strong>Regression R² Score:</strong> {{ r2 }}</p>
       </div>
     {% endif %}
 
