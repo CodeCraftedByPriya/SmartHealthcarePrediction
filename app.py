@@ -81,10 +81,15 @@ def predict():
         diagnosis = clf_model.predict(scaled_input)[0]
         recovery_days = reg_model.predict(scaled_input)[0]
 
+        accuracy = joblib.load('classification_accuracy.pkl')
+        r2_score_val = joblib.load('regression_r2.pkl')
+
         return render_template(
             "home.html",
             diagnosis=diagnosis,
             recovery=round(recovery_days, 1),
+            accuracy=round(accuracy * 100, 2),
+            r2=round(r2_score_val, 4),
             input=input_data
         )
 
