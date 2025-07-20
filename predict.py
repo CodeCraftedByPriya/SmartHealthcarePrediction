@@ -498,6 +498,10 @@ clf_model = joblib.load('diagnosis_model.pkl')
 reg_model = joblib.load('recovery_model.pkl')
 scaler = joblib.load('scaler.pkl')
 
+# Save metrics
+joblib.dump(best_acc, 'classification_accuracy.pkl')
+joblib.dump(best_r2, 'regression_r2.pkl')
+
 # Define consistent input order
 feature_cols = features
 
